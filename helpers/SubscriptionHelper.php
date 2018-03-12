@@ -1,4 +1,4 @@
-<?php namespace Sagenda\Helpers;
+<?php namespace SagendaCalendar\Helpers;
 
 /**
 * This helper class will give ease the usage of Subscription.

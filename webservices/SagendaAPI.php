@@ -1,7 +1,7 @@
-<?php namespace Sagenda\Webservices;
+<?php namespace SagendaCalendar\Webservices;
 
 use Unirest;
-use Sagenda\Helpers\DateHelper;
+use SagendaCalendar\Helpers\DateHelper;
 
 include_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'assets/vendor/mashape/unirest-php/src/Unirest.php' );
 include_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'helpers/DateHelper.php' );

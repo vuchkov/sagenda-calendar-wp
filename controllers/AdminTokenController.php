@@ -1,6 +1,6 @@
-<?php namespace Sagenda\Controllers;
+<?php namespace SagendaCalendar\Controllers;
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
-use Sagenda\webservices\sagendaAPI;
+use SagendaCalendar\webservices\sagendaAPI;
 include_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'webservices/SagendaAPI.php' );
 
 /**

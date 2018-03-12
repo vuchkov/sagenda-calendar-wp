@@ -1,11 +1,11 @@
 === Sagenda - Free booking calendar  ===
 Contributors: sagenda
 Donate link: http://www.sagenda.com/community/
-Tags: booking, appointment, scheduling, availability, reservation, rental, free, accommodation, booking form, reservation form, event, PayPal
+Tags: booking, appointment, scheduling, availability, reservation, rental, free, accommodation, booking form, calendar
 Requires at least: 3.0
 Requires PHP: 5.6
 Tested up to: 4.9.4
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ Sagenda is a free online booking / scheduling / reservation module that helps yo
 
 Sagenda is an online booking software that helps your clients fix appointments and meetings with you online. Sagenda is available at absolutely NO COST for you or your clients! And the best thing about it is that you may have an unlimited number of bookings and/or customers. Our users always come first; that’s why Sagenda doesn’t display ads!
 
->[Contact & Support](http://www.sagenda.com/#contact "We love hearing from you!") | [YouTube Chanel](http://www.youtube.com/sagenda "Get a look at our tutorials!") | [Open an account](https://sagenda.net/Accounts/Register "Open a free account now!")
+[Contact & Support](http://www.sagenda.com/#contact "We love hearing from you!") | [YouTube Chanel](http://www.youtube.com/sagenda "Get a look at our tutorials!") | [Open an account](https://sagenda.net/Accounts/Register "Open a free account now!")
 
 This is an “Online Booking System” which gives customers the opportunity to choose the date and the time of an appointment according to one's own preferences and the booking can now be done online.
 
@@ -32,7 +32,8 @@ You can use Sagenda as shortcode in any page or plugin :
 
 **Prerequisites**
 SAGENDA WP PLUGIN REQUIRE ⚠️ PHP 5.6 or 7.x  !
-⚠️ FOR YOUR OWN SAFETY DON'T USE PHP VERSION OLDER THAN 5.6 THERE IS NO SECURITY PATCH ⚠️  -> http://php.net/supported-versions.php
+⚠️ FOR YOUR OWN SAFETY DON'T USE PHP VERSION OLDER THAN 5.6 THERE IS NO SECURITY PATCH ⚠️
+[http://php.net/supported-versions.php](http://php.net/supported-versions.php)
 
 Sagenda WP plugin require the PHP "Curl extension" to be activated on your hosting to call web services.
 
@@ -51,8 +52,8 @@ Follow these steps to install Sagenda:
 1. Download the booking plugin into the **/wp-content/plugins/** folder and activate the plugin.
 2. Create a free account on https://sagenda.net/Accounts/Register (setup your “bookable items” and events).
 3. Copy your token (from the backend of sagenda.net Settings / account settings) to your WordPress installation (backend of wp / Settings / Sagenda).
-4. Use the shortcode `[sagenda-calendar-wp]` in a page or an article ( you can also display only one "bookable item" : `[sagenda-calendar-wp bookableitem="my bookable item name"]`).
-    OR Use the shortcode `[sagenda-calendar-wp view="calendar"]` to display a month / week / day view. [in BETA testing for now!]
+4. Use the shortcode `[sagenda-calendar-wp]` in a page or an article.
+
 
 SUPPORT THIPS : any error message? try to update to the last version of WordPress and use PHP 7 or higher !
 
@@ -68,26 +69,32 @@ The calendar will start on "Week Starts On" parameter.
 We are translated in many languages. Want more languages? Help us :
 
 Calendar public views :
-https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348
+[https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
 
 WordPress plugin txt :
-http://osp7icw.oneskyapp.com/admin/project/dashboard/project/101655
+[http://osp7icw.oneskyapp.com/admin/project/dashboard/project/101655](http://osp7icw.oneskyapp.com/admin/project/dashboard/project/101655)
+
+Calendar view :
+[https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
 
 We will add your translations in the next release!
 
 == Screenshots ==
 1. Calendar view
-2. List view
-3. Subscription view
-4. How to identify my Sagenda account in WordPress? Copy the authentication code (token) from your Sagenda account and paste it into your WordPress installation
+2. How to identify my Sagenda account in WordPress? Copy the authentication code (token) from your Sagenda account and paste it into your WordPress installation
 
 
 == Upgrade Notice ==
-= 0.0.1 =
-HELP US WITH TRANSLATIONS OF NEW CALENDAR VIEWS : https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348
+= 0.0.2 - ALPHA version =
+HELP US WITH TRANSLATIONS OF NEW CALENDAR VIEWS : [https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
+* IMPROVED : Correct a problem of saving "courtesy" value.
+
+
 * IMPROVED : Split the new JavaScript Calendar view as another plugin for compatibility reason.
 
 == Changelog ==
+= 0.0.1 - ALPHA version =
+HELP US WITH TRANSLATIONS OF NEW CALENDAR VIEWS : [https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
 
 
 == Frequently Asked Questions ==
@@ -150,4 +157,4 @@ If you want to change the day the calendar starts the week on, just change it un
 If you want to change the language of the calendar, just change it under your WordPress settings : "Settings / General / Site Language".
 
 More on :
-[Sagenda Home](http://www.sagenda.com/support-faqs/)
+[Sagenda Home](http://www.sagenda.com/)

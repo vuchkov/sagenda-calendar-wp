@@ -1,12 +1,12 @@
-<?php namespace Sagenda\Controllers;
+<?php namespace SagendaCalendar\Controllers;
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
-use Sagenda\webservices\sagendaAPI;
-use Sagenda\Helpers\PickadateHelper;
-use Sagenda\Helpers\DateHelper;
-use Sagenda\Helpers\ArrayHelper;
-use Sagenda\Helpers\UrlHelper;
-use Sagenda\Models\Entities\Booking;
-use Sagenda\Models\Entities\BookableItem;
+use SagendaCalendar\webservices\sagendaAPI;
+use SagendaCalendar\Helpers\PickadateHelper;
+use SagendaCalendar\Helpers\DateHelper;
+use SagendaCalendar\Helpers\ArrayHelper;
+use SagendaCalendar\Helpers\UrlHelper;
+use SagendaCalendar\Models\Entities\Booking;
+use SagendaCalendar\Models\Entities\BookableItem;
 
 include_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'helpers/PickadateHelper.php' );
 include_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'helpers/UrlHelper.php' );
@@ -53,7 +53,6 @@ class CalendarController {
 
     return $twig->render($this->view, array(
       'SAGENDA_CALENDAR_PLUGIN_URL'          => SAGENDA_CALENDAR_PLUGIN_URL,
-      'searchForEventsBetween'      => __( 'Search for all the events between', 'sagenda-calendar-wp' ),
       'sagendaToken'                => get_option('mrs1_authentication_code'),
       'bearerToken'                 => $sagendaAPI->convertAPITokenToBearerToken(get_option('mrs1_authentication_code')),
       'weekStartsOn'                => get_option('start_of_week'),

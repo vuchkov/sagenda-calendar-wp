@@ -1,4 +1,4 @@
-<?php namespace Sagenda\Helpers;
+<?php namespace SagendaCalendar\Helpers;
 
 /**
 * This helper class will make the integration of Pickadate component easier with WordPress.
