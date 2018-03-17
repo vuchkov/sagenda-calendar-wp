@@ -1,4 +1,8 @@
 {
+	"EVENT" : {
+		"ALL_DAY": "All Day",
+		"DATE": "Date"
+	},
 	"CALENDAR": {
 		"DAY": "Day",
 		"MONTH": "Month",

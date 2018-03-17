@@ -87,7 +87,9 @@ We will add your translations in the next release!
 == Upgrade Notice ==
 = 0.0.2 - ALPHA version =
 HELP US WITH TRANSLATIONS OF NEW CALENDAR VIEWS : [https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
-* IMPROVED : Correct a problem of saving "courtesy" value.
+* FIXED : Correct a problem of saving "courtesy" value.
+* FIXED : Date rendering.
+* TRANSLATIONS : Added Slovak translations (thanks to danielberta).
 
 
 * IMPROVED : Split the new JavaScript Calendar view as another plugin for compatibility reason.

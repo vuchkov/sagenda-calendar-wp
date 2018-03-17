@@ -1,16 +1,37 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2017-03-14 14:24+0000\n"
-"PO-Revision-Date: 2017-03-14 15:27+0100\n"
+"POT-Creation-Date: 2018-03-17 17:02+0000\n"
+"PO-Revision-Date: 2018-03-17 18:05+0100\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: David Imboden <info<this is at>iteration.info>\n"
+"Last-Translator: \n"
 "X-Generator: Poedit 1.8.12\n"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Today"
+msgstr "Tänään"
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Month"
+msgstr "Kuukausi"
+
+msgid "Week"
+msgstr "Viikko"
+
+msgid "Day"
+msgstr "Päivä"
+
+msgid "You didn't add any Bookable item, please configure your Sagenda's account properly !"
+msgstr "Varattavia kohteita ei! Määritä kohteet Sagenda tililläsi."
 
 msgid "NOT CONNECTED"
 msgstr "EI YHDISTETTY"
@@ -33,11 +54,14 @@ msgstr "Nykyinen tila"
 msgid "Click here to get your Authentication code."
 msgstr "Klikkaa tästä saadaksesi varmennuskoodisi"
 
-msgid "<strong>[sagenda-calendar-wp]</strong> add this shortcode either in a post or page where you want to display the Sagenda form."
-msgstr "ong>[sagenda-calendar-wp]</strong> liitä tämä lyhytkoodi joko sähköpostiin tai sivulle jolle haluat Sagenda-lomakkeen."
+msgid "<strong>[sagenda-wp]</strong> add this shortcode either in a post or page where you want to display the Sagenda form."
+msgstr "<strong>[sagenda-wp]</strong> liitä tämä lyhytkoodi joko sähköpostiin tai sivulle jolle haluat Sagenda-lomakkeen."
 
-msgid "If you want to use a shortcode outside of the WordPress post or page editor, you can use this snippet to output it from the shortcode’s handler(s): <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
-msgstr "Jos haluat käyttää lyhytkoodia WordPressin julkaisun tai sivueditorin ulkopuolella shortcodeohjelmissa,voit käyttää tätä pätkäkoodia:   <pre>echo do_shortcode([sagenda-calendar-wp])</pre>."
+msgid "<strong>[sagenda-wp bookableitem=\"my bookable item name\"]</strong> if you want to display only one bookable item on that page. Pay attention : if your bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+msgstr "<strong>[sagenda-wp bookableitem=\"varattava tuote\"]</strong> jos haluat näyttää vain tietyn varattavan tuotteen. Huom: Jos varattavan tuotteen nimi on \"Oma Tuote\", bookableitem=\"oma tuote\" tai bookableitem=\"Oma Tuote\" on oikein, mutta \"bookableitem=\"omatuote\" ei ole!"
+
+msgid "If you want to use a shortcode outside of the WordPress post or page editor, you can use this snippet to output it from the shortcode’s handler(s): <pre>echo do_shortcode([sagenda-wp])</pre>"
+msgstr "Jos haluat käyttää lyhytkoodia WordPressin julkaisun tai sivueditorin ulkopuolella shortcodeohjelmissa,voit käyttää tätä pätkäkoodia:   <pre>echo do_shortcode([sagenda-wp])</pre>."
 
 msgid "NOTE: You first need to register on Sagenda and then you will get a Authentication token which you will use to validate this Sagenda Plugin."
 msgstr "**HUOM: Sinun täytyy ensin rekisteröityä Sagendan sivuille jotta saat varmennuskoodin jolla todennat Sagendan lisäosan."
@@ -57,14 +81,23 @@ msgstr "Kuinka saat varmennuskoodin:"
 msgid "Useful links :"
 msgstr "Hyödyllisiä linkkejä:"
 
+msgid "You didn't configure Sagenda properly please enter your authentication code in Settings"
+msgstr "Sagenda ei ole määritetty oikein. Syötä aktivointikoodi asetuksiin"
+
+msgid "Search for all the events between"
+msgstr "Etsi kaikkia tapahtuma välillä"
+
 msgid "Back"
 msgstr "Takaisin"
 
 msgid "You successfully subscribed to the event."
 msgstr "Olet onnistuneesti ilmoittautunut tapahtumaan."
 
-msgid "Search for all the events between"
-msgstr "Etsi kaikkia tapahtuma välillä"
+msgid "Please pay for your event"
+msgstr "Ole hyvä ja maksa varaamastasi tapahtumasta"
+
+msgid "Pay"
+msgstr "Maksa"
 
 msgid "From"
 msgstr "Mistä"
@@ -115,22 +148,34 @@ msgid "Title"
 msgstr "Titteli"
 
 msgid "Mr."
-msgstr "Herra"
+msgstr "Hra"
 
 msgid "Mrs."
-msgstr "Rouva"
+msgstr "Rva"
 
 msgid "Miss"
-msgstr "Neiti"
+msgstr "Nti"
 
 msgid "Dr"
-msgstr "Dr"
+msgstr "Tri"
 
 msgid "Phone Number"
 msgstr "Puhelinnumero"
 
 msgid "Submit"
 msgstr "Lähetä"
+
+msgid "Your selected booking :"
+msgstr "Varauksesi:"
+
+msgid "Event Name"
+msgstr "Tapahtuman nimi"
+
+msgid "Payment Amount"
+msgstr "Maksun määrä"
+
+msgid "Now, let's book it! Please fill out the form below."
+msgstr "No niin, varataan se! Ole hyvä ja täytä alla oleva lomake."
 
 msgid "Please fill out all the required fields"
 msgstr "Täytäthän kaikki vaadittavat kentät"
