@@ -1,35 +1,35 @@
 {
-    "CALENDAR": {
-        "PREVIOUS": "Predchadzaj\u00face",
-        "DAY": "De\u0148",
-        "NEXT": "Nasleduj\u00face",
-        "MONTH": "Mesiac",
-        "WEEK": "T\u00fd\u017ede\u0148",
-        "TODAY": "Dnes"
-    },
-    "MESSAGE": {
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Pros\u00edm zadajte platn\u00fa emailov\u00fa adresu!",
-        "VALUE_IS_REQUIRED": "Hodnota je po\u017eadovan\u00e1!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "\u00daspe\u0161ne ste zaregistrovali!",
-        "YOU_WILL_GET_NOTIFICATION": "\u010coskoro dostanete upozornenie prostredn\u00edctvom e-mailu a volite\u013ene prostredn\u00edctvom SMS."
-    },
-    "SUBSCRIPTION": {
-        "AMOUNT": "Suma:",
-        "BACK": "Sp\u00e4\u0165",
-        "BOOK": "Objedna\u0165",
-        "DESCRIPTION": "Popis:",
-        "DR": "Dr.",
-        "EMAIL": "E-mailov\u00e1 adresa:",
-        "FIRST_NAME": "Meno:",
-        "FROM": "Od:",
-        "LAST_NAME": "Priezvisko:",
-        "LET_S_BOOK_IT": "Zarezervova\u0165 to!",
-        "MISS": "Sle\u010dna",
-        "MR": "P\u00e1n",
-        "MRS": "Pani",
-        "NOTE": "Pozn\u00e1mka:",
-        "PHONE": "Telef\u00f3n:",
-        "TO": "Komu:",
-        "TITLE": "Nadpis:"
-    }
+	"CALENDAR": {
+		"PREVIOUS": "Predchadzajúce",
+		"DAY": "Deň",
+		"NEXT": "Nasledujúce",
+		"MONTH": "Mesiac",
+		"WEEK": "Týždeň",
+		"TODAY": "Dnes"
+	},
+	"MESSAGE": {
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prosím zadajte platnú emailovú adresu!",
+		"VALUE_IS_REQUIRED": "Hodnota je požadovaná!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Úspešne ste zaregistrovali!",
+		"YOU_WILL_GET_NOTIFICATION": "Čoskoro dostanete upozornenie prostredníctvom e-mailu a voliteľne prostredníctvom SMS."
+	},
+	"SUBSCRIPTION": {
+		"AMOUNT": "Suma:",
+		"BACK": "Späť",
+		"BOOK": "Objednať",
+		"DESCRIPTION": "Popis:",
+		"DR": "Dr.",
+		"EMAIL": "E-mailová adresa:",
+		"FIRST_NAME": "Meno:",
+		"FROM": "Od:",
+		"LAST_NAME": "Priezvisko:",
+		"LET_S_BOOK_IT": "Zarezervovať to!",
+		"MISS": "Slečna",
+		"MR": "Pán",
+		"MRS": "Pani",
+		"NOTE": "Poznámka:",
+		"PHONE": "Telefón:",
+		"TO": "Komu:",
+		"TITLE": "Nadpis:"
+	}
 }

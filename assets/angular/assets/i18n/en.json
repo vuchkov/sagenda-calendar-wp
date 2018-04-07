@@ -1,22 +1,19 @@
 {
-	"EVENT" : {
-		"ALL_DAY": "All Day",
-		"DATE": "Date"
-	},
 	"CALENDAR": {
-		"DAY": "Day",
-		"MONTH": "Month",
-		"NEXT": "Next",
 		"PREVIOUS": "Previous",
-		"TODAY": "Today",
-		"WEEK": "Week"
+		"DAY": "Day",
+		"NEXT": "Next",
+		"MONTH": "Month",
+		"WEEK": "Week",
+		"TODAY": "Today"
 	},
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Please enter a valid email address!",
-		"PLEASE_SELECT": "Please select...",
 		"VALUE_IS_REQUIRED": "Value is required!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "You have successfully subscribed!",
-		"YOU_WILL_GET_NOTIFICATION": "You will soon get a notification by email and optionally by SMS."
+		"YOU_WILL_GET_NOTIFICATION": "You will soon get a notification by email and optionally by SMS.",
+		"PLEASE_SELECT": "Please select...",
+		"NO_EVENT": "There's no event left for the given timeframe."
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Amount:",
@@ -34,7 +31,19 @@
 		"MRS": "Mrs.",
 		"NOTE": "Note:",
 		"PHONE": "Phone:",
-		"TITLE": "Title:",
-		"TO": "To:"
+		"TO": "To:",
+		"TITLE": "Title:"
+	},
+	"EVENT": {
+		"ALL_DAY": "All Day",
+		"DATE": "Date"
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "Please create at least a bookable item in your sagenda's account!",
+		"NO_TOKEN": "Please copy your sagenda's authentication code (token) from your account!"
+	},
+	"STANDARD": {
+		"LINK": "Link",
+		"OK": "OK"
 	}
 }

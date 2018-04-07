@@ -5,16 +5,16 @@ Tags: booking, appointment, scheduling, availability, reservation, rental, free,
 Requires at least: 3.0
 Requires PHP: 5.6
 Tested up to: 4.9.4
-Stable tag: 0.0.2
+Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin is the new mobile calendar (and list) view of Sagenda
-Sagenda is a free online booking / scheduling / reservation module that helps your clients fix appointments at absolutely NO COST!
+📅 Sagenda is a free online booking / scheduling / reservation module that helps your clients fix appointments at absolutely NO COST!
 
 == Description ==
 
-Sagenda is an online booking software that helps your clients fix appointments and meetings with you online. Sagenda is available at absolutely NO COST for you or your clients! And the best thing about it is that you may have an unlimited number of bookings and/or customers. Our users always come first; that’s why Sagenda doesn’t display ads!
+📅 Sagenda is an online booking software that helps your clients fix appointments and meetings with you online. Sagenda is available at absolutely NO COST for you or your clients! And the best thing about it is that you may have an unlimited number of bookings and/or customers. Our users always come first; that’s why Sagenda doesn’t display ads!
 
 [Contact & Support](http://www.sagenda.com/#contact "We love hearing from you!") | [YouTube Chanel](http://www.youtube.com/sagenda "Get a look at our tutorials!") | [Open an account](https://sagenda.net/Accounts/Register "Open a free account now!")
 
@@ -85,18 +85,28 @@ We will add your translations in the next release!
 
 
 == Upgrade Notice ==
+= 0.2.0 =
+* FIXED : A problem when displaying "all day" events in the week view.
+* ADDED : You can now customise also some text color from your sagenda's account.
+* TRANSLATIONS : Added 🇳🇱 Dutch translations.
+* TESTED : WordPress 4.2.5.
+
+== Changelog ==
+= 0.1.0 =
+🚀 Shoot for the moon ! 🌝 and help us with translations : [https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
+* ADDED : You can now customise the button text color from your sagenda's account.
+* IMPROVED : Give notification in case the user didn't entered the token, didn't created bookable items or can't display any event.
+* TRANSLATIONS : Added 🇷🇺 Russian, 🇺🇦 Ukrainian and 🇪🇸 Spanish translations.
+
 = 0.0.2 - ALPHA version =
 HELP US WITH TRANSLATIONS OF NEW CALENDAR VIEWS : [https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
 * FIXED : Correct a problem of saving "courtesy" value.
 * FIXED : Date rendering.
 * TRANSLATIONS : Added Slovak translations (thanks to danielberta).
 
-
-* IMPROVED : Split the new JavaScript Calendar view as another plugin for compatibility reason.
-
-== Changelog ==
 = 0.0.1 - ALPHA version =
 HELP US WITH TRANSLATIONS OF NEW CALENDAR VIEWS : [https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
+* IMPROVED : Split the new JavaScript Calendar view as another plugin for compatibility reason.
 
 
 == Frequently Asked Questions ==

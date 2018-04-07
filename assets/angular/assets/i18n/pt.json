@@ -1,17 +1,18 @@
 {
     "CALENDAR": {
-        "PREVIOUS": "anterior",
+        "PREVIOUS": "Anterior",
         "DAY": "Dia",
-        "NEXT": "seguinte",
-        "MONTH": "m\u00eas",
-        "WEEK": "semana",
-        "TODAY": "hoje"
+        "NEXT": "Seguinte",
+        "MONTH": "M\u00eas",
+        "WEEK": "Semana",
+        "TODAY": "Hoje"
     },
     "MESSAGE": {
         "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Por favor indique um email v\u00e1lido!",
         "VALUE_IS_REQUIRED": "Um valor \u00e9 necess\u00e1rio!",
         "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Subscrito com sucesso!",
-        "YOU_WILL_GET_NOTIFICATION": "Em breve, voc\u00ea receber\u00e1 uma notifica\u00e7\u00e3o por e-mail e, opcionalmente, por SMS."
+        "YOU_WILL_GET_NOTIFICATION": "Em breve, voc\u00ea receber\u00e1 uma notifica\u00e7\u00e3o por e-mail e, opcionalmente, por SMS.",
+        "PLEASE_SELECT": "Seleccione "
     },
     "SUBSCRIPTION": {
         "AMOUNT": "Valor:",
@@ -31,5 +32,16 @@
         "PHONE": "Telefone:",
         "TO": "Para:",
         "TITLE": "Titulo:"
+    },
+    "EVENT": {
+        "ALL_DAY": "Dia Inteiro",
+        "DATE": "Data"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Please create at least a bookable item in your sagenda's account!"
+    },
+    "STANDARD": {
+        "LINK": "Link",
+        "OK": "OK"
     }
 }
