@@ -39,7 +39,8 @@
 		"DATE": "Date"
 	},
 	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Merci de créer au moins un élément réservable dans votre compte Sagenda!"
+		"NO_BOOKABLE_ITEM": "Merci de créer au moins un élément réservable dans votre compte Sagenda!",
+		"NO_TOKEN": "Merci de copier votre code d'authentificaiton (jeton) sagenda depuis votre compte! "
 	},
 	"STANDARD": {
 		"LINK": "Lien",

@@ -11,7 +11,9 @@
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vänligen skriv in en korrekt e-postadress",
 		"VALUE_IS_REQUIRED": "Obligatoriskt fält",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Din anmälan är registrerad!",
-		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS (tillval)."
+		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS (tillval).",
+		"PLEASE_SELECT": "",
+		"NO_EVENT": ""
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Belopp:",
@@ -31,5 +33,17 @@
 		"PHONE": "Telefon:",
 		"TO": "Till:",
 		"TITLE": "Titel:"
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": ""
+	},
+	"STANDARD": {
+		"LINK": "",
+		"OK": ""
 	}
 }

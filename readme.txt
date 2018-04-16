@@ -74,9 +74,6 @@ Calendar public views :
 WordPress plugin txt :
 [http://osp7icw.oneskyapp.com/admin/project/dashboard/project/101655](http://osp7icw.oneskyapp.com/admin/project/dashboard/project/101655)
 
-Calendar view :
-[https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
-
 We will add your translations in the next release!
 
 == Screenshots ==
@@ -88,7 +85,7 @@ We will add your translations in the next release!
 = 0.2.0 =
 * FIXED : A problem when displaying "all day" events in the week view.
 * ADDED : You can now customise also some text color from your sagenda's account.
-* TRANSLATIONS : Added 🇳🇱 Dutch translations.
+* TRANSLATIONS : Added Dutch & Italian translations.
 * TESTED : WordPress 4.2.5.
 
 == Changelog ==

@@ -11,7 +11,9 @@
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Sähköpostiosoite ei kelpaa!",
 		"VALUE_IS_REQUIRED": "Pakollinen tieto!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Varaus onnistui!",
-		"YOU_WILL_GET_NOTIFICATION": "Saat pian vahvistuksen sähköpostilla ja tekstiviestillä (mikäli palvelu käytössä)"
+		"YOU_WILL_GET_NOTIFICATION": "Saat pian vahvistuksen sähköpostilla ja tekstiviestillä (mikäli palvelu käytössä)",
+		"PLEASE_SELECT": "",
+		"NO_EVENT": ""
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Määrä:",
@@ -31,5 +33,17 @@
 		"PHONE": "Puhelin:",
 		"TO": "Asti:",
 		"TITLE": "Titteli:"
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": ""
+	},
+	"STANDARD": {
+		"LINK": "",
+		"OK": ""
 	}
 }

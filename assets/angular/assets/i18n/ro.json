@@ -11,7 +11,9 @@
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vă rugăm să introduceţi o adresă de email validă!",
 		"VALUE_IS_REQUIRED": "Vă rugăm să introduceţi o valoare!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "V-ați abonat cu succes!",
-		"YOU_WILL_GET_NOTIFICATION": "Veţi primi în curând o notificare prin email sau opțional prin SMS."
+		"YOU_WILL_GET_NOTIFICATION": "Veţi primi în curând o notificare prin email sau opțional prin SMS.",
+		"PLEASE_SELECT": "",
+		"NO_EVENT": ""
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Total:",
@@ -31,5 +33,17 @@
 		"PHONE": "Telefon:",
 		"TO": "La:",
 		"TITLE": "Titlu:"
+	},
+	"EVENT": {
+		"ALL_DAY": "",
+		"DATE": ""
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "",
+		"NO_TOKEN": ""
+	},
+	"STANDARD": {
+		"LINK": "",
+		"OK": ""
 	}
 }

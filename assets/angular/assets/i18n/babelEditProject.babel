@@ -1896,68 +1896,68 @@
         <translation_file>
             <language>ro-RO</language>
             <file>ro.json</file>
-            <file_size>1111</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>1109</file_size>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>en-US</language>
             <file>en.json</file>
             <file_size>1260</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>fr-FR</language>
             <file>fr.json</file>
-            <file_size>1221</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>1359</file_size>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>sk-SK</language>
             <file>sk.json</file>
-            <file_size>1114</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>1112</file_size>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>it-IT</language>
             <file>it.json</file>
-            <file_size>1075</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>1073</file_size>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>sv-SE</language>
             <file>sv.json</file>
-            <file_size>1067</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>1065</file_size>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>pt-PT</language>
             <file>pt.json</file>
-            <file_size>1070</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>1165</file_size>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>fi-FI</language>
             <file>fi.json</file>
-            <file_size>1078</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>1076</file_size>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>uk-UA</language>
             <file>uk.json</file>
             <file_size>1401</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>ru-RU</language>
             <file>ru.json</file>
             <file_size>1413</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>cs-CZ</language>
             <file>cs.json</file>
-            <file_size>1080</file_size>
-            <modification_timestamp>1521747948</modification_timestamp>
+            <file_size>929</file_size>
+            <modification_timestamp>1522092198</modification_timestamp>
         </translation_file>
     </translation_files>
     <editor_configuration>
