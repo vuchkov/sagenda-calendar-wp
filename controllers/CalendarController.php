@@ -54,7 +54,7 @@ class CalendarController {
     return $twig->render($this->view, array(
       'SAGENDA_CALENDAR_PLUGIN_URL'          => SAGENDA_CALENDAR_PLUGIN_URL,
       'sagendaToken'                => get_option('mrs1_authentication_code'),
-      // 'bearerToken'                 => $sagendaAPI->convertAPITokenToBearerToken(get_option('mrs1_authentication_code')),
+      'bearerToken'                 => $sagendaAPI->convertAPITokenToBearerToken(get_option('mrs1_authentication_code')),
       'weekStartsOn'                => get_option('start_of_week'),
       'languageCultureShortName'    => get_locale(),
       'dateFormat'                  => DateHelper::convertDateFormatFromPHPToMomentjs(get_option( 'date_format' )),
