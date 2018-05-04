@@ -4,7 +4,7 @@
 * Plugin Name:       Sagenda Calendar
 * Plugin URI:        https://www.sagenda.com/
 * Description:       Sagenda is a free Online Booking / Scheduling / Reservation System, which gives customers the opportunity to choose the date and the time of an appointment according to your preferences.
-* Version:           0.3.0
+* Version:           0.4.0
 * Author:            sagenda
 * Author URI:        http://www.iteration.info
 * License:           GPLv2
@@ -82,7 +82,7 @@ function head_code_sagenda_calendar(){
 $headcode = '<base href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/angular/"  />';
 $headcode .= '<link rel="stylesheet" href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/vendor/bootstrap/bootstrap-wrapper.css" >';
 $headcode .= '<link href="https://unpkg.com/@angular/material@5.2.3/prebuilt-themes/indigo-pink.css" rel="stylesheet">';
-$headcode .= '<link href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/angular/styles.bundle.css" rel="stylesheet"/>';
+$headcode .= '<link href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/angular/styles.css" rel="stylesheet"/>';
 
 //  $headcode .= '<base href="/" id="baseHref">
 // <script>
