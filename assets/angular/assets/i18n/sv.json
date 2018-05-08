@@ -1,19 +1,29 @@
 {
 	"CALENDAR": {
-		"PREVIOUS": "Tidigare",
 		"DAY": "Dag",
-		"NEXT": "Nästa",
 		"MONTH": "Månad",
-		"WEEK": "Vecka",
-		"TODAY": "Idag"
+		"NEXT": "Nästa",
+		"PREVIOUS": "Tidigare",
+		"TODAY": "Idag",
+		"WEEK": "Vecka"
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "Var vänlig välj minst en bokningsbar kalender under din profil!",
+	},
+	"EVENT": {
+		"ALL_DAY": "Hela dagen",
+		"DATE": "Datum"
 	},
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vänligen skriv in en korrekt e-postadress",
+		"PLEASE_SELECT": "Var vänlig välj...",
 		"VALUE_IS_REQUIRED": "Obligatoriskt fält",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Din anmälan är registrerad!",
-		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS (tillval).",
-		"PLEASE_SELECT": "",
-		"NO_EVENT": ""
+		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS (tillval)."
+	},
+	"STANDARD": {
+		"LINK": "Länk",
+		"OK": "OK"
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Belopp:",
@@ -31,19 +41,7 @@
 		"MRS": "Fru",
 		"NOTE": "Anteckning:",
 		"PHONE": "Telefon:",
-		"TO": "Till:",
-		"TITLE": "Titel:"
-	},
-	"EVENT": {
-		"ALL_DAY": "",
-		"DATE": ""
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "",
-		"NO_TOKEN": ""
-	},
-	"STANDARD": {
-		"LINK": "",
-		"OK": ""
+		"TITLE": "Titel:",
+		"TO": "Till:"
 	}
 }

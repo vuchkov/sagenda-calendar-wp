@@ -5,7 +5,7 @@ Tags: booking, appointment, scheduling, availability, reservation, rental, free,
 Requires at least: 3.0
 Requires PHP: 5.6
 Tested up to: 4.9.5
-Stable tag: 0.4.0
+Stable tag: 0.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -82,6 +82,9 @@ We will add your translations in the next release!
 
 
 == Upgrade Notice ==
+= 0.4.1 =
+* FIXED : a bug when the frontend customization module wasn't activated.
+
 = 0.4.0 =
 * IMPROVED : displaying date and time in a better way.
 * IMPROVED : displaying events of several days.

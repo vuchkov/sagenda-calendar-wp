@@ -1,19 +1,26 @@
 {
 	"CALENDAR": {
-		"PREVIOUS": "Anterior",
 		"DAY": "Dia",
-		"NEXT": "Seguinte",
 		"MONTH": "Mês",
-		"WEEK": "Semana",
-		"TODAY": "Hoje"
+		"NEXT": "Seguinte",
+		"PREVIOUS": "Anterior",
+		"TODAY": "Hoje",
+		"WEEK": "Semana"
+	},
+	"EVENT": {
+		"ALL_DAY": "Dia Inteiro",
+		"DATE": "Data"
 	},
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Por favor indique um email válido!",
+		"PLEASE_SELECT": "Seleccione ",
 		"VALUE_IS_REQUIRED": "Um valor é necessário!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Subscrito com sucesso!",
-		"YOU_WILL_GET_NOTIFICATION": "Em breve, você receberá uma notificação por e-mail e, opcionalmente, por SMS.",
-		"PLEASE_SELECT": "Seleccione ",
-		"NO_EVENT": ""
+		"YOU_WILL_GET_NOTIFICATION": "Em breve, você receberá uma notificação por e-mail e, opcionalmente, por SMS."
+	},
+	"STANDARD": {
+		"LINK": "Link",
+		"OK": "OK"
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Valor:",
@@ -31,19 +38,7 @@
 		"MRS": "Srª.",
 		"NOTE": "Nota:",
 		"PHONE": "Telefone:",
-		"TO": "Para:",
-		"TITLE": "Titulo:"
-	},
-	"EVENT": {
-		"ALL_DAY": "Dia Inteiro",
-		"DATE": "Data"
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Please create at least a bookable item in your sagenda's account!",
-		"NO_TOKEN": ""
-	},
-	"STANDARD": {
-		"LINK": "Link",
-		"OK": "OK"
+		"TITLE": "Titulo:",
+		"TO": "Para:"
 	}
 }

@@ -1,19 +1,31 @@
 {
 	"CALENDAR": {
-		"PREVIOUS": "Précédent",
 		"DAY": "Jour",
-		"NEXT": "Suivant",
 		"MONTH": "Mois",
-		"WEEK": "Semaine",
-		"TODAY": "Aujourd'hui"
+		"NEXT": "Suivant",
+		"PREVIOUS": "Précédent",
+		"TODAY": "Aujourd'hui",
+		"WEEK": "Semaine"
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "Merci de créer au moins un élément réservable dans votre compte Sagenda!",
+		"NO_TOKEN": "Merci de copier votre code d'authentificaiton (jeton) sagenda depuis votre compte!"
+	},
+	"EVENT": {
+		"ALL_DAY": "Toute la journée",
+		"DATE": "Date"
 	},
 	"MESSAGE": {
+		"NO_EVENT": "Il ne reste pas d'évènement pour la période donnée.",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Merci d'entrer une adresse email valide!",
+		"PLEASE_SELECT": "Merci de sélectionner...",
 		"VALUE_IS_REQUIRED": "Une valeur est obligatoire!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Vous vous êtes inscrit avec succès!",
-		"YOU_WILL_GET_NOTIFICATION": "Vous allez bientôt recevoir une notification par email et optionnellement par SMS.",
-		"PLEASE_SELECT": "Merci de sélectionner...",
-		"NO_EVENT": "Il ne reste pas d'évènement pour la période donnée."
+		"YOU_WILL_GET_NOTIFICATION": "Vous allez bientôt recevoir une notification par email et optionnellement par SMS."
+	},
+	"STANDARD": {
+		"LINK": "Lien",
+		"OK": "OK"
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Montant:",
@@ -31,19 +43,7 @@
 		"MRS": "Mme.",
 		"NOTE": "Note:",
 		"PHONE": "Téléphone:",
-		"TO": "A:",
-		"TITLE": "Titre:"
-	},
-	"EVENT": {
-		"ALL_DAY": "Toute la journée",
-		"DATE": "Date"
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Merci de créer au moins un élément réservable dans votre compte Sagenda!",
-		"NO_TOKEN": "Merci de copier votre code d'authentificaiton (jeton) sagenda depuis votre compte! "
-	},
-	"STANDARD": {
-		"LINK": "Lien",
-		"OK": "OK"
+		"TITLE": "Titre:",
+		"TO": "A:"
 	}
 }

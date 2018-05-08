@@ -9,113 +9,7 @@
                 <name>CALENDAR</name>
                 <children>
                     <concept_node>
-                        <name>PREVIOUS</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                    <concept_node>
                         <name>DAY</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                    <concept_node>
-                        <name>NEXT</name>
                         <definition_loaded>false</definition_loaded>
                         <description></description>
                         <comment></comment>
@@ -221,7 +115,60 @@
                         </translations>
                     </concept_node>
                     <concept_node>
-                        <name>WEEK</name>
+                        <name>NEXT</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
+                    <concept_node>
+                        <name>PREVIOUS</name>
                         <definition_loaded>false</definition_loaded>
                         <description></description>
                         <comment></comment>
@@ -326,11 +273,339 @@
                             </translation>
                         </translations>
                     </concept_node>
+                    <concept_node>
+                        <name>WEEK</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
+                </children>
+            </folder_node>
+            <folder_node>
+                <name>ERROR</name>
+                <children>
+                    <concept_node>
+                        <name>NO_BOOKABLE_ITEM</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
+                    <concept_node>
+                        <name>NO_TOKEN</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
+                </children>
+            </folder_node>
+            <folder_node>
+                <name>EVENT</name>
+                <children>
+                    <concept_node>
+                        <name>ALL_DAY</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
+                    <concept_node>
+                        <name>DATE</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
                 </children>
             </folder_node>
             <folder_node>
                 <name>MESSAGE</name>
                 <children>
+                    <concept_node>
+                        <name>NO_EVENT</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
                     <concept_node>
                         <name>PLEASE_ENTER_A_VALID_EMAIL_ADDRESS</name>
                         <definition_loaded>false</definition_loaded>
@@ -380,6 +655,59 @@
                             </translation>
                             <translation>
                                 <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                        </translations>
+                    </concept_node>
+                    <concept_node>
+                        <name>PLEASE_SELECT</name>
+                        <definition_loaded>false</definition_loaded>
+                        <description></description>
+                        <comment></comment>
+                        <default_text></default_text>
+                        <translations>
+                            <translation>
+                                <language>en-US</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fr-FR</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>fi-FI</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>it-IT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>pt-PT</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sk-SK</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>uk-UA</language>
                                 <approved>false</approved>
                             </translation>
                         </translations>
@@ -543,8 +871,13 @@
                             </translation>
                         </translations>
                     </concept_node>
+                </children>
+            </folder_node>
+            <folder_node>
+                <name>STANDARD</name>
+                <children>
                     <concept_node>
-                        <name>PLEASE_SELECT</name>
+                        <name>LINK</name>
                         <definition_loaded>false</definition_loaded>
                         <description></description>
                         <comment></comment>
@@ -597,16 +930,12 @@
                         </translations>
                     </concept_node>
                     <concept_node>
-                        <name>NO_EVENT</name>
+                        <name>OK</name>
                         <definition_loaded>false</definition_loaded>
                         <description></description>
                         <comment></comment>
                         <default_text></default_text>
                         <translations>
-                            <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
                             <translation>
                                 <language>en-US</language>
                                 <approved>false</approved>
@@ -632,15 +961,19 @@
                                 <approved>false</approved>
                             </translation>
                             <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
                                 <language>sk-SK</language>
                                 <approved>false</approved>
                             </translation>
                             <translation>
                                 <language>sv-SE</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>cs-CZ</language>
+                                <approved>false</approved>
+                            </translation>
+                            <translation>
+                                <language>ru-RU</language>
                                 <approved>false</approved>
                             </translation>
                             <translation>
@@ -1450,59 +1783,6 @@
                         </translations>
                     </concept_node>
                     <concept_node>
-                        <name>TO</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                    <concept_node>
                         <name>TITLE</name>
                         <definition_loaded>false</definition_loaded>
                         <description></description>
@@ -1555,18 +1835,17 @@
                             </translation>
                         </translations>
                     </concept_node>
-                </children>
-            </folder_node>
-            <folder_node>
-                <name>EVENT</name>
-                <children>
                     <concept_node>
-                        <name>ALL_DAY</name>
+                        <name>TO</name>
                         <definition_loaded>false</definition_loaded>
                         <description></description>
                         <comment></comment>
                         <default_text></default_text>
                         <translations>
+                            <translation>
+                                <language>ro-RO</language>
+                                <approved>false</approved>
+                            </translation>
                             <translation>
                                 <language>en-US</language>
                                 <approved>false</approved>
@@ -1576,11 +1855,7 @@
                                 <approved>false</approved>
                             </translation>
                             <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
+                                <language>sk-SK</language>
                                 <approved>false</approved>
                             </translation>
                             <translation>
@@ -1588,48 +1863,11 @@
                                 <approved>false</approved>
                             </translation>
                             <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
                                 <language>sv-SE</language>
                                 <approved>false</approved>
                             </translation>
                             <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                    <concept_node>
-                        <name>DATE</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ro-RO</language>
+                                <language>pt-PT</language>
                                 <approved>false</approved>
                             </translation>
                             <translation>
@@ -1637,23 +1875,7 @@
                                 <approved>false</approved>
                             </translation>
                             <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>cs-CZ</language>
+                                <language>uk-UA</language>
                                 <approved>false</approved>
                             </translation>
                             <translation>
@@ -1661,229 +1883,7 @@
                                 <approved>false</approved>
                             </translation>
                             <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                </children>
-            </folder_node>
-            <folder_node>
-                <name>ERROR</name>
-                <children>
-                    <concept_node>
-                        <name>NO_BOOKABLE_ITEM</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
                                 <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                    <concept_node>
-                        <name>NO_TOKEN</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                </children>
-            </folder_node>
-            <folder_node>
-                <name>STANDARD</name>
-                <children>
-                    <concept_node>
-                        <name>LINK</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
-                                <approved>false</approved>
-                            </translation>
-                        </translations>
-                    </concept_node>
-                    <concept_node>
-                        <name>OK</name>
-                        <definition_loaded>false</definition_loaded>
-                        <description></description>
-                        <comment></comment>
-                        <default_text></default_text>
-                        <translations>
-                            <translation>
-                                <language>en-US</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fi-FI</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>fr-FR</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>it-IT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>pt-PT</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ro-RO</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sk-SK</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>sv-SE</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>cs-CZ</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>ru-RU</language>
-                                <approved>false</approved>
-                            </translation>
-                            <translation>
-                                <language>uk-UA</language>
                                 <approved>false</approved>
                             </translation>
                         </translations>
@@ -1896,68 +1896,46 @@
         <translation_file>
             <language>ro-RO</language>
             <file>ro.json</file>
-            <file_size>1109</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>en-US</language>
             <file>en.json</file>
-            <file_size>1260</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>fr-FR</language>
             <file>fr.json</file>
-            <file_size>1359</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>sk-SK</language>
             <file>sk.json</file>
-            <file_size>1112</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>it-IT</language>
             <file>it.json</file>
-            <file_size>1073</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>sv-SE</language>
             <file>sv.json</file>
-            <file_size>1065</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>pt-PT</language>
             <file>pt.json</file>
-            <file_size>1165</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>fi-FI</language>
             <file>fi.json</file>
-            <file_size>1076</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>uk-UA</language>
             <file>uk.json</file>
-            <file_size>1401</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>ru-RU</language>
             <file>ru.json</file>
-            <file_size>1413</file_size>
-            <modification_timestamp>1522091984</modification_timestamp>
         </translation_file>
         <translation_file>
             <language>cs-CZ</language>
             <file>cs.json</file>
-            <file_size>929</file_size>
-            <modification_timestamp>1522092198</modification_timestamp>
         </translation_file>
     </translation_files>
     <editor_configuration>

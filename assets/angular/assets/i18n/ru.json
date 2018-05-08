@@ -1,19 +1,20 @@
 {
 	"CALENDAR": {
-		"PREVIOUS": "Предыдущий",
 		"DAY": "День",
-		"NEXT": "Следующий",
 		"MONTH": "Месяц",
-		"WEEK": "Неделя",
-		"TODAY": "Сегодня"
+		"NEXT": "Следующий",
+		"PREVIOUS": "Предыдущий",
+		"TODAY": "Сегодня",
+		"WEEK": "Неделя"
 	},
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Пожалуйста, введите действительный адрес электронной почты!\n",
 		"VALUE_IS_REQUIRED": "Обязательное поле!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Вы успешно подписаны!",
-		"YOU_WILL_GET_NOTIFICATION": "Вы скоро получите уведомление по электронной почте и, возможно, по SMS.",
-		"PLEASE_SELECT": "",
-		"NO_EVENT": ""
+		"YOU_WILL_GET_NOTIFICATION": "Вы скоро получите уведомление по электронной почте и, возможно, по SMS."
+	},
+	"STANDARD": {
+		"OK": "OK"
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Сумма:",
@@ -31,19 +32,7 @@
 		"MRS": "Госпожа",
 		"NOTE": "Заметка:\n",
 		"PHONE": "Телефон:",
-		"TO": "По:",
-		"TITLE": "Название:"
-	},
-	"EVENT": {
-		"ALL_DAY": "",
-		"DATE": ""
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "",
-		"NO_TOKEN": ""
-	},
-	"STANDARD": {
-		"LINK": "",
-		"OK": "OK"
+		"TITLE": "Название:",
+		"TO": "По:"
 	}
 }

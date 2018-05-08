@@ -1,19 +1,17 @@
 {
 	"CALENDAR": {
-		"PREVIOUS": "Înapoi",
 		"DAY": "Zi",
-		"NEXT": "Înainte",
 		"MONTH": "Lună",
-		"WEEK": "Săptămână",
-		"TODAY": "Astăzi"
+		"NEXT": "Înainte",
+		"PREVIOUS": "Înapoi",
+		"TODAY": "Astăzi",
+		"WEEK": "Săptămână"
 	},
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vă rugăm să introduceţi o adresă de email validă!",
 		"VALUE_IS_REQUIRED": "Vă rugăm să introduceţi o valoare!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "V-ați abonat cu succes!",
-		"YOU_WILL_GET_NOTIFICATION": "Veţi primi în curând o notificare prin email sau opțional prin SMS.",
-		"PLEASE_SELECT": "",
-		"NO_EVENT": ""
+		"YOU_WILL_GET_NOTIFICATION": "Veţi primi în curând o notificare prin email sau opțional prin SMS."
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Total:",
@@ -31,19 +29,7 @@
 		"MRS": "D-na",
 		"NOTE": "Notă:",
 		"PHONE": "Telefon:",
-		"TO": "La:",
-		"TITLE": "Titlu:"
-	},
-	"EVENT": {
-		"ALL_DAY": "",
-		"DATE": ""
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "",
-		"NO_TOKEN": ""
-	},
-	"STANDARD": {
-		"LINK": "",
-		"OK": ""
+		"TITLE": "Titlu:",
+		"TO": "La:"
 	}
 }
