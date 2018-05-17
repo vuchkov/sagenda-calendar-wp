@@ -48,7 +48,9 @@ class initializer
   */
     public static function initTwig()
     {
-        include_once(SAGENDA_CALENDAR_PLUGIN_DIR.'/assets/vendor/twig/lib/Twig/Autoloader.php');
+        if( class_exists('Twig_Autoloader') === false ) {
+          include_once(SAGENDA_CALENDAR_PLUGIN_DIR.'/assets/vendor/twig/lib/Twig/Autoloader.php');
+        }
         \Twig_Autoloader::register();
         $loader = new \Twig_Loader_Filesystem(SAGENDA_CALENDAR_PLUGIN_DIR.'/views');
 

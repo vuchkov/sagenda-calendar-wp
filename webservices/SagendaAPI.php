@@ -3,8 +3,11 @@
 use Unirest;
 use SagendaCalendar\Helpers\DateHelper;
 
-include_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'assets/vendor/mashape/unirest-php/src/Unirest.php' );
-include_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'helpers/DateHelper.php' );
+if( class_exists('Unirest\Exception') === false ) {
+  require_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'assets/vendor/mashape/unirest-php/src/Unirest.php' );
+}
+
+require_once( SAGENDA_CALENDAR_PLUGIN_DIR . 'helpers/DateHelper.php' );
 
 /**
 * This class will be responsible for accessing the Sagenda's RESTful API
