@@ -57,6 +57,7 @@ class CalendarController {
       'bearerToken'                 => $sagendaAPI->convertAPITokenToBearerToken(get_option('mrs1_authentication_code')),
       'weekStartsOn'                => get_option('start_of_week'),
       'languageCultureShortName'    => get_locale(),
+      //'' => SAGENDA_CALENDAR_PLUGIN_URL.'assets/angular/"
       'dateFormat'                  => DateHelper::convertDateFormatFromPHPToMomentjs(get_option( 'date_format' )),
       'timeFormat'                  => DateHelper::convertTimeFormatFromPHPToMomentjs(get_option( 'time_format' )),
     ));

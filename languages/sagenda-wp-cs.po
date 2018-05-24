@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2017-11-10 20:48+0000\n"
-"PO-Revision-Date: 2017-11-10 21:50+0100\n"
+"POT-Creation-Date: 2018-05-17 19:54+0000\n"
+"PO-Revision-Date: 2018-05-17 21:58+0200\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid "Day"
 msgstr "Den"
 
 msgid "You didn't add any Bookable item, please configure your Sagenda's account properly !"
-msgstr "Nepřidali jste žádnou položku k rezervaci. Konfig"
+msgstr "Nepřidali jste žádnou položku k rezervaci, prosím nastavte ji správně ve Vášem Sagenda účtu."
 
 msgid "NOT CONNECTED"
 msgstr "NEPŘIPOJENO"
@@ -54,16 +54,16 @@ msgstr "Aktuální stav"
 msgid "Click here to get your Authentication code."
 msgstr "Klikněte zde pro získání autentizačního kódu."
 
-msgid "<strong>[sagenda-calendar-wp]</strong> add this shortcode either in a post or page where you want to display the Sagenda form."
-msgstr "[sagenda-calendar-wp] přidejte tento zkrácený kód buď do příspěvku nebo na stránku, kde chcete zobrazit formulář agendy."
+msgid "<strong>[sagenda-wp]</strong> add this shortcode either in a post or page where you want to display the Sagenda form."
+msgstr "[Sagenda-wp] přidejte tento zkrácený kód buď do příspěvku nebo na stránku, kde chcete zobrazit formulář agendy."
 
-msgid "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> if you want to display only one bookable item on that page. Pay attention : if your bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+msgid "<strong>[sagenda-wp bookableitem=\"my bookable item name\"]</strong> if you want to display only one bookable item on that page. Pay attention : if your bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
 msgstr ""
-"<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong>pro zo\n"
-" if you want to display only one bookable item on that page. Pay attention : if your bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+"<strong>[sagenda-wp bookableitem=\"my bookable item name\"]</strong>Pokud chcete zobrazit pouze jednu rezervovatelnou položku na té stránce.\n"
+"Věnujte pozornost : Pokud se vaše rezervovatelná položka jmenuje \"Moje položka\", bookableitem=\"moje polozka\" or bookableitem=\"Moje polozka\" obojí bude správně, ale \"bookableitem=\"mojepolozka\" ne!"
 
-msgid "If you want to use a shortcode outside of the WordPress post or page editor, you can use this snippet to output it from the shortcode’s handler(s): <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
-msgstr "Pokud chcete použít shortcode mimo příspěvěk ve WordPress nebo mimo stránku, můžete využít tento snippet <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+msgid "If you want to use a shortcode outside of the WordPress post or page editor, you can use this snippet to output it from the shortcode’s handler(s): <pre>echo do_shortcode([sagenda-wp])</pre>"
+msgstr "Pokud chcete použít shortcode mimo příspěvěk ve WordPress nebo mimo stránku, můžete využít tento snippet <pre>echo do_shortcode([sagenda-wp])</pre>"
 
 msgid "NOTE: You first need to register on Sagenda and then you will get a Authentication token which you will use to validate this Sagenda Plugin."
 msgstr "** Poznámka: Nejprve je nutné se zaregistrovat na Sagenda a poté obdržíte Autentizační token, který budete používat k ověření tohoto pluginu. **"
@@ -78,13 +78,13 @@ msgid "About integration in your WP WebSite :"
 msgstr "K integraci do Vaší WP prezentace"
 
 msgid "How to get the token :"
-msgstr "Jak získat token:"
+msgstr "Jak získat kód :"
 
 msgid "Useful links :"
 msgstr "Užitečné odkazy :"
 
 msgid "You didn't configure Sagenda properly please enter your authentication code in Settings"
-msgstr "Sagenda není nakonfigurována správně. Prosím vložte autenti"
+msgstr "Sagenda není nakonfigurována správně. Prosím vložte autentifikační kód v nastavení."
 
 msgid "Search for all the events between"
 msgstr "Prohledat všechny položky mezi"
@@ -102,16 +102,16 @@ msgid "Pay"
 msgstr "Zaplatit"
 
 msgid "From"
-msgstr "Chcete-li zobrazit Sagendu mimo stránku nebo článek můžete použít zkrácený kód: : <pre>echo do_shortcode('[sagenda-calendar-wp]')</pre>"
+msgstr "Od"
 
 msgid "To"
-msgstr "Na"
+msgstr "Do"
 
 msgid "Please choose a bookable item"
-msgstr "Vyberte prosím položku pro objednání"
+msgstr "Vyberte prosím položku pro rezervaci"
 
 msgid "Location"
-msgstr "Umístění"
+msgstr "Místo"
 
 msgid "Description"
 msgstr "Popis"
@@ -171,7 +171,7 @@ msgid "Your selected booking :"
 msgstr "Vaše vybraná rezervace:"
 
 msgid "Event Name"
-msgstr "Název akce"
+msgstr "Název události"
 
 msgid "Payment Amount"
 msgstr "Částka k úhradě"

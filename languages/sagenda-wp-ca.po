@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2018-03-17 17:02+0000\n"
+"POT-Creation-Date: 2018-05-17 19:54+0000\n"
 "PO-Revision-Date: 2018-05-17 21:58+0200\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: fi\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,178 +13,178 @@ msgstr ""
 "X-Generator: Poedit 1.8.12\n"
 
 msgid "Next"
-msgstr "Seuraava"
+msgstr "Següent"
 
 msgid "Today"
-msgstr "Tänään"
+msgstr "Avui"
 
 msgid "Previous"
-msgstr "Edellinen"
+msgstr "Previ"
 
 msgid "Month"
-msgstr "Kuukausi"
+msgstr "Mes"
 
 msgid "Week"
-msgstr "Viikko"
+msgstr "Setmana"
 
 msgid "Day"
-msgstr "Päivä"
+msgstr "Dia"
 
 msgid "You didn't add any Bookable item, please configure your Sagenda's account properly !"
-msgstr "Varattavia kohteita ei! Määritä kohteet Sagenda tililläsi."
+msgstr "No tenies cap element reservable, per favor configura't el teu compte de Sagenda."
 
 msgid "NOT CONNECTED"
-msgstr "EI YHDISTETTY"
+msgstr "No conectat"
 
 msgid "CONNECTED"
-msgstr "YHDISTETTY"
+msgstr "Conectat"
 
 msgid "Sagenda Authentication Settings"
-msgstr "Sagendan varmentamisen asetukset"
+msgstr "Configuració d'autentificació de Sagenda"
 
 msgid "Sagenda Authentication Code"
-msgstr "Sagenda varmennuskoodi"
+msgstr "Codi d'autentificació de Sagenda"
 
 msgid "Save Changes"
-msgstr "Tallenna asetukset"
+msgstr "Guarda els canvis"
 
 msgid "Current Status"
-msgstr "Nykyinen tila"
+msgstr "Estatus actual"
 
 msgid "Click here to get your Authentication code."
-msgstr "Klikkaa tästä saadaksesi varmennuskoodisi"
+msgstr "Clica aquí per aconseguir el codi d'autentificació"
 
 msgid "<strong>[sagenda-wp]</strong> add this shortcode either in a post or page where you want to display the Sagenda form."
-msgstr "<strong>[sagenda-wp]</strong> liitä tämä lyhytkoodi joko sähköpostiin tai sivulle jolle haluat Sagenda-lomakkeen."
+msgstr "<strong>[sagenda-wp]</strong> afegeix aquest codi a la teva pàgina on vulguis que surti l'agenda de Sagenda."
 
 msgid "<strong>[sagenda-wp bookableitem=\"my bookable item name\"]</strong> if you want to display only one bookable item on that page. Pay attention : if your bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
-msgstr "<strong>[sagenda-wp bookableitem=\"varattava tuote\"]</strong> jos haluat näyttää vain tietyn varattavan tuotteen. Huom: Jos varattavan tuotteen nimi on \"Oma Tuote\", bookableitem=\"oma tuote\" tai bookableitem=\"Oma Tuote\" on oikein, mutta \"bookableitem=\"omatuote\" ei ole!"
+msgstr "<strong>[sagenda-wp bookableitem=\"my bookable item name\"]</strong> si vols que surti només un ítem reservable a aquesta pàgina. Atenció: si el teu element reservable és name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" és correcte, però \"bookableitem=\"myitem\" no!"
 
 msgid "If you want to use a shortcode outside of the WordPress post or page editor, you can use this snippet to output it from the shortcode’s handler(s): <pre>echo do_shortcode([sagenda-wp])</pre>"
-msgstr "Jos haluat käyttää lyhytkoodia WordPressin julkaisun tai sivueditorin ulkopuolella shortcodeohjelmissa,voit käyttää tätä pätkäkoodia:   <pre>echo do_shortcode([sagenda-wp])</pre>."
+msgstr "Si vols utilitzar un codi de fora del post o pàgina de Wordpress, pots usar aquest snippet: <pre>echo do_shortcode([sagenda-wp])</pre>"
 
 msgid "NOTE: You first need to register on Sagenda and then you will get a Authentication token which you will use to validate this Sagenda Plugin."
-msgstr "**HUOM: Sinun täytyy ensin rekisteröityä Sagendan sivuille jotta saat varmennuskoodin jolla todennat Sagendan lisäosan."
+msgstr "Has de registrar-te a Sagenda i després aconseguiràs un token d'autentificació que et servirà per validar el plugin de Sagenda"
 
 msgid "Read more"
-msgstr "Lue lisää"
+msgstr "Llegeix més"
 
 msgid "Create a free account "
-msgstr "Luodaksesi ilmaisen tilin: <a href=\"https://sagenda.net/Accounts/Login\" target=\"_blank\">https://sagenda.net/Accounts/Login</a>"
+msgstr "Creat un compte gratuït"
 
 msgid "About integration in your WP WebSite :"
-msgstr "Integraatiosta WP nettisivuille:"
+msgstr "Sobre l'integració a la teva web de Wordpress:"
 
 msgid "How to get the token :"
-msgstr "Kuinka saat varmennuskoodin:"
+msgstr "Com aconseguir el token:"
 
 msgid "Useful links :"
-msgstr "Hyödyllisiä linkkejä:"
+msgstr "Enllaços útils"
 
 msgid "You didn't configure Sagenda properly please enter your authentication code in Settings"
-msgstr "Sagenda ei ole määritetty oikein. Syötä aktivointikoodi asetuksiin"
+msgstr "No havies configurat adequadament la teva Sagenda, entra el teu codi d'autentificació a configuració."
 
 msgid "Search for all the events between"
-msgstr "Etsi kaikkia tapahtuma välillä"
+msgstr "Busca tots els esdeveniments entre"
 
 msgid "Back"
-msgstr "Takaisin"
+msgstr "Enrere"
 
 msgid "You successfully subscribed to the event."
-msgstr "Olet onnistuneesti ilmoittautunut tapahtumaan."
+msgstr "T'has subscrit correctament a l'esdeveniment"
 
 msgid "Please pay for your event"
-msgstr "Ole hyvä ja maksa varaamastasi tapahtumasta"
+msgstr "Per favor, paga per l'esdeveniment"
 
 msgid "Pay"
-msgstr "Maksa"
+msgstr "Paga"
 
 msgid "From"
-msgstr "Mistä"
+msgstr "De"
 
 msgid "To"
-msgstr "Mihin"
+msgstr "A"
 
 msgid "Please choose a bookable item"
-msgstr "Ole hyvä ja ja valitse varattava tuote"
+msgstr "Per favor, escull un element reservable"
 
 msgid "Location"
-msgstr "Sijainti"
+msgstr "Localització"
 
 msgid "Description"
-msgstr "Kuvaus"
+msgstr "Descripció"
 
 msgid "Create a free Booking Account on Sagenda!"
-msgstr "Luo ilmainen varaustili Sagendaan!"
+msgstr "Crea un compte a Sagenda gratuït!"
 
 msgid "Search"
-msgstr "Etsi"
+msgstr "Cerca"
 
 msgid "Click an event to book It:"
-msgstr "Klikkaa tapahtumaa varataksesi sen:"
+msgstr "Clica un esdeveniment per reservar-lo:"
 
 msgid "book-it!"
-msgstr "Varaa!"
+msgstr "Reserva'l!"
 
 msgid "Help"
-msgstr "Tarvitsetko apua!"
+msgstr "Ajuda"
 
 msgid "No event found for the bookable item within the selected date range."
-msgstr "Ei tapahtumia varattavalle tuotteelle tällä aikavälillä"
+msgstr "No hem trobat cap esdeveniment per aquestes dates"
 
 msgid "Subscription"
-msgstr "Kuvaus"
+msgstr "Subscripció"
 
 msgid "Email"
-msgstr "Sähköposti"
+msgstr "Correu electrònic"
 
 msgid "First Name"
-msgstr "Etunimi"
+msgstr "Nom"
 
 msgid "Last Name"
-msgstr "Sukunimi"
+msgstr "Cognom"
 
 msgid "Title"
-msgstr "Titteli"
+msgstr "Títol"
 
 msgid "Mr."
-msgstr "Hra"
+msgstr "Sr."
 
 msgid "Mrs."
-msgstr "Rva"
+msgstr "Sra."
 
 msgid "Miss"
-msgstr "Nti"
+msgstr "Sta."
 
 msgid "Dr"
-msgstr "Tri"
+msgstr "Dr"
 
 msgid "Phone Number"
-msgstr "Puhelinnumero"
+msgstr "Número de telèfon"
 
 msgid "Submit"
-msgstr "Lähetä"
+msgstr "Envia"
 
 msgid "Your selected booking :"
-msgstr "Varauksesi:"
+msgstr "La teva reserva seleccionada:"
 
 msgid "Event Name"
-msgstr "Tapahtuman nimi"
+msgstr "Nom de l'esdeveniment"
 
 msgid "Payment Amount"
-msgstr "Maksun määrä"
+msgstr "Import"
 
 msgid "Now, let's book it! Please fill out the form below."
-msgstr "No niin, varataan se! Ole hyvä ja täytä alla oleva lomake."
+msgstr "Reserva! Per favor omple el formulari de sota."
 
 msgid "Please fill out all the required fields"
-msgstr "Täytäthän kaikki vaadittavat kentät"
+msgstr "Per favor, omple tots els camps obligatoris"
 
 msgid "Successfully connected"
-msgstr "Onnistuneesti yhdistetty"
+msgstr "Connectat exitosament"
 
 msgid "Your token is wrong; please try again or generate another one in Sagenda’s backend."
-msgstr "Varmennuskoodisi on virheellinen; ole hyvä ja yritä uudelleen tai luo uusi koodi Sagendan sisällönhallintajärjestelmässä."
+msgstr "El teu token és incorrecte: prova-ho de nou o genera'n un altre."
 
 msgid "An error has occurred. Booking wasn't saved."
-msgstr "Tapahtui virhe. Varausta ei tallennettu."
+msgstr "S'ha produït un error. La reserva no s'ha guardat."
