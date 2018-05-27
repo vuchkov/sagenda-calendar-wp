@@ -4,7 +4,7 @@ Donate link: http://www.sagenda.com/community/
 Tags: booking, appointment, scheduling, availability, reservation, rental, free, accommodation, booking form, calendar
 Requires at least: 3.0
 Requires PHP: 5.6
-Tested up to: 4.9.5
+Tested up to: 4.9.6
 Stable tag: 0.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -85,6 +85,8 @@ We will add your translations in the next release!
 
 = 0.4.2 =
 * IMPROVED : it is not possible to put on the same page : several Sagenda lists and one Sagenda calendar (not several due to Angular restrictions).
+* FIXED : a bug making conflict with the website "base href".
+* TRANSLATIONS : Lots of new translations.
 
 = 0.4.1 =
 * FIXED : a bug when the frontend customization module wasn't activated.
