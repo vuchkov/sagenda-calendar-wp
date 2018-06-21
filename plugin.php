@@ -77,22 +77,10 @@ function sagenda_calendar_is_CURL_Enabled(){
 * Include CSS, JavaScript in the head section of the plugin.
 */
 function head_code_sagenda_calendar(){
-	// TODO : call the reference only when needed
-// bootstrap
-// $headcode = '<base href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/angular/"  />';
-$headcode .= '<link rel="stylesheet" href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/vendor/bootstrap/bootstrap-wrapper.css" >';
-$headcode .= '<link href="https://unpkg.com/@angular/material@6.0.1/prebuilt-themes/indigo-pink.css" rel="stylesheet">';
-$headcode .= '<link href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/angular/styles.css" rel="stylesheet"/>';
-
-//  $headcode .= '<base href="/" id="baseHref">
-// <script>
-//  (function() {
-// 	 document.getElementById(\'baseHref\').href = \'/\' + window.location.pathname.split(\'/\')[1] + "\/";
-//  })();
-// </script>';
-	// required by Angular
-
-
+	$headcode = '';
+	$headcode .= '<link rel="stylesheet" href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/vendor/bootstrap/bootstrap-wrapper.css" >';
+	$headcode .= '<link href="https://unpkg.com/@angular/material@6.2.0/prebuilt-themes/indigo-pink.css" rel="stylesheet">';
+	$headcode .= '<link href="'.SAGENDA_CALENDAR_PLUGIN_URL.'assets/angular/styles.css" rel="stylesheet"/>';
 	echo $headcode;
 }
 
