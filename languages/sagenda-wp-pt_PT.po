@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sagenda-calendar-wp\n"
 "POT-Creation-Date: 2017-03-08 22:09+0100\n"
-"PO-Revision-Date: 2017-03-08 22:09+0100\n"
+"PO-Revision-Date: 2018-07-08 22:03+0200\n"
 "Last-Translator: David Imboden <info<this is at>iteration.info>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: pt_PT\n"
@@ -55,21 +55,21 @@ msgstr ""
 msgid ""
 "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> if you "
 "want to display only one bookable item on that page. Pay attention : if your "
-"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem="
-"\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item"
+"\" will be correct, but \"bookableitem=\"myitem\" not!"
 msgstr ""
 
 #: controllers/AdminTokenController.php:44
 msgid ""
-"If you want to use a shortcode outside of the WordPress post or page editor, "
-"you can use this snippet to output it from the shortcode’s handler(s): "
-"<pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"If you want to use a shortcode outside of the WordPress post or page editor, you can "
+"use this snippet to output it from the shortcode’s handler(s): <pre>echo "
+"do_shortcode([sagenda-calendar-wp])</pre>"
 msgstr ""
 
 #: controllers/AdminTokenController.php:45
 msgid ""
-"NOTE: You first need to register on Sagenda and then you will get a "
-"Authentication token which you will use to validate this Sagenda Plugin."
+"NOTE: You first need to register on Sagenda and then you will get a Authentication "
+"token which you will use to validate this Sagenda Plugin."
 msgstr ""
 
 #: controllers/AdminTokenController.php:46
@@ -103,8 +103,8 @@ msgstr ""
 
 #: controllers/SearchController.php:51
 msgid ""
-"You didn't configure Sagenda properly please enter your authentication code "
-"in Settings"
+"You didn't configure Sagenda properly please enter your authentication code in "
+"Settings"
 msgstr ""
 
 #: controllers/SearchController.php:78
@@ -127,8 +127,7 @@ msgstr ""
 msgid "Location"
 msgstr ""
 
-#: controllers/SearchController.php:83
-#: controllers/SubscriptionController.php:47
+#: controllers/SearchController.php:83 controllers/SubscriptionController.php:47
 msgid "Description"
 msgstr "Descrição"
 
@@ -148,8 +147,7 @@ msgstr ""
 msgid "book-it!"
 msgstr ""
 
-#: controllers/SearchController.php:90
-#: controllers/SubscriptionController.php:50
+#: controllers/SearchController.php:90 controllers/SubscriptionController.php:50
 msgid "Help"
 msgstr ""
 
@@ -213,8 +211,7 @@ msgstr ""
 
 #: webservices/SagendaAPI.php:32
 msgid ""
-"Your token is wrong; please try again or generate another one in Sagenda’s "
-"backend."
+"Your token is wrong; please try again or generate another one in Sagenda’s backend."
 msgstr ""
 
 #: webservices/SagendaAPI.php:85

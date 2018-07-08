@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
 "POT-Creation-Date: 2017-03-08 22:18+0100\n"
-"PO-Revision-Date: 2017-03-08 22:19+0100\n"
+"PO-Revision-Date: 2018-07-08 22:07+0200\n"
 "Last-Translator: David Imboden <info<this is at>iteration.info>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: fa\n"
@@ -57,32 +57,31 @@ msgstr ""
 msgid ""
 "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> if you "
 "want to display only one bookable item on that page. Pay attention : if your "
-"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem="
-"\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item"
+"\" will be correct, but \"bookableitem=\"myitem\" not!"
 msgstr ""
 "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> \n"
 "اگر می خواهید نمایش فقط یک آیتم دریافت در این سایت ببینید.\n"
-"توجه کنید: اگراسم آیتم دریافت تان \" آیتم من \" است, آیتم دریافت=\" آیتم من"
-"\" یا آیتم دریافت \" آیتم من\" درست خواهید بود, اما  \" آیتممن \" نمی شود!"
+"توجه کنید: اگراسم آیتم دریافت تان \" آیتم من \" است, آیتم دریافت=\" آیتم من\" یا "
+"آیتم دریافت \" آیتم من\" درست خواهید بود, اما  \" آیتممن \" نمی شود!"
 
 #: controllers/AdminTokenController.php:44
 msgid ""
-"If you want to use a shortcode outside of the WordPress post or page editor, "
-"you can use this snippet to output it from the shortcode’s handler(s): "
-"<pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"If you want to use a shortcode outside of the WordPress post or page editor, you can "
+"use this snippet to output it from the shortcode’s handler(s): <pre>echo "
+"do_shortcode([sagenda-calendar-wp])</pre>"
 msgstr ""
-"اگر میخواهید استفاده از کد کوتاه در WordPress پست یا سایت ادیتور، شما می "
-"توانید از این قطعه (snippet) استفاده کنید برای تولید ان را از برنامه کنترلها "
-"((handler(s) کود کوتاه : <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"اگر میخواهید استفاده از کد کوتاه در WordPress پست یا سایت ادیتور، شما می توانید از "
+"این قطعه (snippet) استفاده کنید برای تولید ان را از برنامه کنترلها ((handler(s) کود "
+"کوتاه : <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
 
 #: controllers/AdminTokenController.php:45
 msgid ""
-"NOTE: You first need to register on Sagenda and then you will get a "
-"Authentication token which you will use to validate this Sagenda Plugin."
+"NOTE: You first need to register on Sagenda and then you will get a Authentication "
+"token which you will use to validate this Sagenda Plugin."
 msgstr ""
-"توجه کنید: اولا شما باید در Sagenda ثبت کنید و سپس یک رمز تولیدی به دست "
-"بیاورید و از ان رمز تولیدی  باید استفاده کنید تا تایید اعتبار ان Sagenda "
-"پلاگین کنید. "
+"توجه کنید: اولا شما باید در Sagenda ثبت کنید و سپس یک رمز تولیدی به دست بیاورید و از "
+"ان رمز تولیدی  باید استفاده کنید تا تایید اعتبار ان Sagenda پلاگین کنید. "
 
 #: controllers/AdminTokenController.php:46
 msgid "Read more"
@@ -115,11 +114,11 @@ msgstr "شما به این واقعه ای با موفقیت ارسال کردی
 
 #: controllers/SearchController.php:51
 msgid ""
-"You didn't configure Sagenda properly please enter your authentication code "
-"in Settings"
+"You didn't configure Sagenda properly please enter your authentication code in "
+"Settings"
 msgstr ""
-"شما پیکربندی Sagenda درست نکردید. لطفاً یک بار دیگر کد  تایید تان را در "
-"تنظیمات گواهینامه ارسال کنید."
+"شما پیکربندی Sagenda درست نکردید. لطفاً یک بار دیگر کد  تایید تان را در تنظیمات "
+"گواهینامه ارسال کنید."
 
 #: controllers/SearchController.php:78
 msgid "Search for all the events between"
@@ -141,8 +140,7 @@ msgstr " لطفاً یک آیتم دریافتی را انتخاب کنید"
 msgid "Location"
 msgstr "محل"
 
-#: controllers/SearchController.php:83
-#: controllers/SubscriptionController.php:47
+#: controllers/SearchController.php:83 controllers/SubscriptionController.php:47
 msgid "Description"
 msgstr "تعریف"
 
@@ -162,8 +160,7 @@ msgstr "واقعه ای کلیک کنید تا رزرو ان را:"
 msgid "book-it!"
 msgstr ""
 
-#: controllers/SearchController.php:90
-#: controllers/SubscriptionController.php:50
+#: controllers/SearchController.php:90 controllers/SubscriptionController.php:50
 msgid "Help"
 msgstr "کمک"
 
@@ -225,10 +222,8 @@ msgstr " متصل موفق"
 
 #: webservices/SagendaAPI.php:32
 msgid ""
-"Your token is wrong; please try again or generate another one in Sagenda’s "
-"backend."
-msgstr ""
-"رمز تان  درست نیست; لطفاً تکرار کنید یا تولید یک دیگر را در Sagenda پشت خط."
+"Your token is wrong; please try again or generate another one in Sagenda’s backend."
+msgstr "رمز تان  درست نیست; لطفاً تکرار کنید یا تولید یک دیگر را در Sagenda پشت خط."
 
 #: webservices/SagendaAPI.php:85
 msgid "An error has occurred. Booking wasn't saved."

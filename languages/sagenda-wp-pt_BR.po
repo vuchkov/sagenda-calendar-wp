@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sagenda-calendar-wp\n"
 "POT-Creation-Date: 2017-03-08 22:09+0100\n"
-"PO-Revision-Date: 2017-03-08 22:09+0100\n"
+"PO-Revision-Date: 2018-07-08 22:03+0200\n"
 "Last-Translator: David Imboden <info<this is at>iteration.info>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: pt_BR\n"
@@ -60,34 +60,32 @@ msgstr ""
 #: controllers/AdminTokenController.php:43
 msgid ""
 "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> if you "
-"want to display only one bookable item on that page. Pay attention : if your "
-"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem="
-"\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+"want to display only one bookable item on that page. Pay attention : if your bookable "
+"item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" will "
+"be correct, but \"bookableitem=\"myitem\" not!"
 msgstr ""
 
 #: controllers/AdminTokenController.php:44
 msgid ""
-"If you want to use a shortcode outside of the WordPress post or page editor, "
-"you can use this snippet to output it from the shortcode’s handler(s): "
-"<pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"If you want to use a shortcode outside of the WordPress post or page editor, you can "
+"use this snippet to output it from the shortcode’s handler(s): <pre>echo "
+"do_shortcode([sagenda-calendar-wp])</pre>"
 msgstr ""
-"Se você quiser usar um shortcode fora da postagem WordPress ou editor de "
-"páginas, você pode usar esse trecho a saída dele a partir do manipulador (s) "
-"shortcode: <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"Se você quiser usar um shortcode fora da postagem WordPress ou editor de páginas, "
+"você pode usar esse trecho a saída dele a partir do manipulador (s) shortcode: "
+"<pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
 
 #: controllers/AdminTokenController.php:45
 #, fuzzy
 #| msgid ""
 #| "**NOTE: You first need to register on Sagenda and then you will get a "
-#| "Authentication token which you will use to validate this Sagenda Plugin. "
-#| "**"
+#| "Authentication token which you will use to validate this Sagenda Plugin. **"
 msgid ""
-"NOTE: You first need to register on Sagenda and then you will get a "
-"Authentication token which you will use to validate this Sagenda Plugin."
+"NOTE: You first need to register on Sagenda and then you will get a Authentication "
+"token which you will use to validate this Sagenda Plugin."
 msgstr ""
-"** NOTA: Você primeiro precisa se registrar no Sagenda e, em seguida, você "
-"receberá um código de autenticação que você irá usar para validar esta "
-"Plugin Sagenda. **"
+"** NOTA: Você primeiro precisa se registrar no Sagenda e, em seguida, você receberá "
+"um código de autenticação que você irá usar para validar esta Plugin Sagenda. **"
 
 #: controllers/AdminTokenController.php:46
 msgid "Read more"
@@ -122,8 +120,8 @@ msgstr "Você se inscreveu com sucesso para o evento."
 
 #: controllers/SearchController.php:51
 msgid ""
-"You didn't configure Sagenda properly please enter your authentication code "
-"in Settings"
+"You didn't configure Sagenda properly please enter your authentication code in "
+"Settings"
 msgstr ""
 
 #: controllers/SearchController.php:78
@@ -134,9 +132,9 @@ msgstr ""
 #, fuzzy
 msgid "From"
 msgstr ""
-"Se você quiser usar um shortcode fora da postagem WordPress ou editor de "
-"páginas, você pode usar esse trecho a saída dele a partir do manipulador (s) "
-"shortcode: <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"Se você quiser usar um shortcode fora da postagem WordPress ou editor de páginas, "
+"você pode usar esse trecho a saída dele a partir do manipulador (s) shortcode: "
+"<pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
 
 #: controllers/SearchController.php:80
 msgid "To"
@@ -150,8 +148,7 @@ msgstr ""
 msgid "Location"
 msgstr ""
 
-#: controllers/SearchController.php:83
-#: controllers/SubscriptionController.php:47
+#: controllers/SearchController.php:83 controllers/SubscriptionController.php:47
 msgid "Description"
 msgstr "Descrição"
 
@@ -171,18 +168,15 @@ msgstr "Clique no evento para reservar:"
 msgid "book-it!"
 msgstr ""
 
-#: controllers/SearchController.php:90
-#: controllers/SubscriptionController.php:50
+#: controllers/SearchController.php:90 controllers/SubscriptionController.php:50
 msgid "Help"
 msgstr ""
 
 #: controllers/SearchController.php:92
 #, fuzzy
-#| msgid ""
-#| "No events found for the bookable item within the selected date range."
+#| msgid "No events found for the bookable item within the selected date range."
 msgid "No event found for the bookable item within the selected date range."
-msgstr ""
-"Nenhum evento encontrado para o item reservado dentro do período selecionado."
+msgstr "Nenhum evento encontrado para o item reservado dentro do período selecionado."
 
 #: controllers/SubscriptionController.php:35
 #, fuzzy
@@ -240,11 +234,10 @@ msgstr ""
 
 #: webservices/SagendaAPI.php:32
 msgid ""
-"Your token is wrong; please try again or generate another one in Sagenda’s "
-"backend."
+"Your token is wrong; please try again or generate another one in Sagenda’s backend."
 msgstr ""
-"A sua chave está errada; por favor tente novamente ou para gerar outro no "
-"backend do Sagenda."
+"A sua chave está errada; por favor tente novamente ou para gerar outro no backend do "
+"Sagenda."
 
 #: webservices/SagendaAPI.php:85
 msgid "An error has occurred. Booking wasn't saved."
@@ -254,36 +247,33 @@ msgstr ""
 #~ msgstr "Sagenda para WordPress: Configurações Sagenda"
 
 #~ msgid "You should enable curl service in your PHP/Apache configuration."
-#~ msgstr ""
-#~ "Você deve habilitar o serviço de curl na sua configuração / Apache PHP."
+#~ msgstr "Você deve habilitar o serviço de curl na sua configuração / Apache PHP."
 
 #~ msgid ""
-#~ "It looks like Sagenda’s WebServices failed to connect to Internet and is "
-#~ "blocked by the server’s firewall. Please contact your hosting provider "
-#~ "support service and ask them to unblock Sagenda’s WebServices. You can "
-#~ "give them our WP link as reference:"
+#~ "It looks like Sagenda’s WebServices failed to connect to Internet and is blocked "
+#~ "by the server’s firewall. Please contact your hosting provider support service and "
+#~ "ask them to unblock Sagenda’s WebServices. You can give them our WP link as "
+#~ "reference:"
 #~ msgstr ""
-#~ "Parece que Web Services da Sagenda não conseguiu se conectar à Internet e "
-#~ "foi bloqueada pelo firewall do servidor. Por favor contacte o seu "
-#~ "departamento de suporte ao seu provedor de hospedagem e peça para "
-#~ "desbloquear Web Services do Sagenda. Você pode enviar o nosso link WP "
-#~ "como referência:"
+#~ "Parece que Web Services da Sagenda não conseguiu se conectar à Internet e foi "
+#~ "bloqueada pelo firewall do servidor. Por favor contacte o seu departamento de "
+#~ "suporte ao seu provedor de hospedagem e peça para desbloquear Web Services do "
+#~ "Sagenda. Você pode enviar o nosso link WP como referência:"
 
 #~ msgid ""
-#~ "You can read more information about <a href=\"http://www.sagenda.com/add-"
-#~ "booking-system-website/add-booking-plugin-wordpress-website/\">Sagenda "
-#~ "WordPress plugin</a>"
+#~ "You can read more information about <a href=\"http://www.sagenda.com/add-booking-"
+#~ "system-website/add-booking-plugin-wordpress-website/\">Sagenda WordPress plugin</a>"
 #~ msgstr ""
-#~ "Você pode ler mais informações acerca de <a href=\"http://www.sagenda.com/"
-#~ "add-booking-system-website/add-booking-plugin-wordpress-website/\" target="
-#~ "\"_blank\">Sagenda WordPress plugin</a>"
+#~ "Você pode ler mais informações acerca de <a href=\"http://www.sagenda.com/add-"
+#~ "booking-system-website/add-booking-plugin-wordpress-website/\" target=\"_blank"
+#~ "\">Sagenda WordPress plugin</a>"
 
 #~ msgid ""
 #~ "To create a free account : <a href=\"https://sagenda.net/Accounts/Register"
 #~ "\">https://sagenda.net/Accounts/Register</a>"
 #~ msgstr ""
-#~ "Para criar uma conta gratuita : <a href=\"https://sagenda.net/Accounts/"
-#~ "Register\" target=\"_blank\">https://sagenda.net/Accounts/Register</a>"
+#~ "Para criar uma conta gratuita : <a href=\"https://sagenda.net/Accounts/Register\" "
+#~ "target=\"_blank\">https://sagenda.net/Accounts/Register</a>"
 
 #~ msgid "Paid Event Information"
 #~ msgstr "Informações sobre evento pago"
@@ -301,11 +291,10 @@ msgstr ""
 #~ msgstr "Nota de pagamento"
 
 #~ msgid ""
-#~ "You will be redirected to the paypal website to complete your payment and "
-#~ "booking"
+#~ "You will be redirected to the paypal website to complete your payment and booking"
 #~ msgstr ""
-#~ "Você será redirecionado para o site PayPal para completar o pagamento  de "
-#~ "sua reserva"
+#~ "Você será redirecionado para o site PayPal para completar o pagamento  de sua "
+#~ "reserva"
 
 #~ msgid "Back to Calendar"
 #~ msgstr "Voltar ao Calendário"
@@ -317,15 +306,12 @@ msgstr ""
 #~ "1. Create a free account on <a href='https://sagenda.net/Accounts/"
 #~ "Register'>Sagenda.</a> (set up your bookable items and events)."
 #~ msgstr ""
-#~ "1. Criar uma conta gratuita em <a href='https://sagenda.net/Accounts/"
-#~ "Register' target=\"_blank\">Sagenda.</a> (configurar seus elementos de "
-#~ "reservas e eventos)."
+#~ "1. Criar uma conta gratuita em <a href='https://sagenda.net/Accounts/Register' "
+#~ "target=\"_blank\">Sagenda.</a> (configurar seus elementos de reservas e eventos)."
 
-#~ msgid ""
-#~ "2. Copy your token (from the backend of sagenda.net Settings / account)"
+#~ msgid "2. Copy your token (from the backend of sagenda.net Settings / account)"
 #~ msgstr ""
-#~ "Copie a sua chave (a partir do backend de Configurações sagenda.net / "
-#~ "account)"
+#~ "Copie a sua chave (a partir do backend de Configurações sagenda.net / account)"
 
 #~ msgid "Start date"
 #~ msgstr "Data inicial"

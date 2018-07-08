@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sagenda-calendar-wp\n"
 "POT-Creation-Date: 2017-03-08 22:25+0100\n"
-"PO-Revision-Date: 2017-03-08 22:25+0100\n"
+"PO-Revision-Date: 2018-07-08 22:03+0200\n"
 "Last-Translator: David Imboden <info<this is at>iteration.info>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -61,23 +61,23 @@ msgstr "[sagenda-calendar-wp]在后期或在你计划展示Sagenda表格的页�
 msgid ""
 "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> if you "
 "want to display only one bookable item on that page. Pay attention : if your "
-"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem="
-"\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item"
+"\" will be correct, but \"bookableitem=\"myitem\" not!"
 msgstr ""
 
 #: controllers/AdminTokenController.php:44
 msgid ""
-"If you want to use a shortcode outside of the WordPress post or page editor, "
-"you can use this snippet to output it from the shortcode’s handler(s): "
-"<pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"If you want to use a shortcode outside of the WordPress post or page editor, you can "
+"use this snippet to output it from the shortcode’s handler(s): <pre>echo "
+"do_shortcode([sagenda-calendar-wp])</pre>"
 msgstr ""
-"如果你希望在WordPress后期或页面编辑器之外使用短代码，你可以使用这个片段 从短"
-"代码处理器中输出：<pre> echo do_shortcode([sagenda-calendar-wp])</pre>"
+"如果你希望在WordPress后期或页面编辑器之外使用短代码，你可以使用这个片段 从短代码处理"
+"器中输出：<pre> echo do_shortcode([sagenda-calendar-wp])</pre>"
 
 #: controllers/AdminTokenController.php:45
 msgid ""
-"NOTE: You first need to register on Sagenda and then you will get a "
-"Authentication token which you will use to validate this Sagenda Plugin."
+"NOTE: You first need to register on Sagenda and then you will get a Authentication "
+"token which you will use to validate this Sagenda Plugin."
 msgstr ""
 
 #: controllers/AdminTokenController.php:46
@@ -113,8 +113,8 @@ msgstr "你已成功订阅该事项."
 
 #: controllers/SearchController.php:51
 msgid ""
-"You didn't configure Sagenda properly please enter your authentication code "
-"in Settings"
+"You didn't configure Sagenda properly please enter your authentication code in "
+"Settings"
 msgstr ""
 
 #: controllers/SearchController.php:78
@@ -137,8 +137,7 @@ msgstr ""
 msgid "Location"
 msgstr ""
 
-#: controllers/SearchController.php:83
-#: controllers/SubscriptionController.php:47
+#: controllers/SearchController.php:83 controllers/SubscriptionController.php:47
 msgid "Description"
 msgstr "描述"
 
@@ -158,8 +157,7 @@ msgstr "点击事项以进行预订:"
 msgid "book-it!"
 msgstr ""
 
-#: controllers/SearchController.php:90
-#: controllers/SubscriptionController.php:50
+#: controllers/SearchController.php:90 controllers/SubscriptionController.php:50
 msgid "Help"
 msgstr ""
 
@@ -223,8 +221,7 @@ msgstr ""
 
 #: webservices/SagendaAPI.php:32
 msgid ""
-"Your token is wrong; please try again or generate another one in Sagenda’s "
-"backend."
+"Your token is wrong; please try again or generate another one in Sagenda’s backend."
 msgstr "你的token错误，请重试或在Sagenda的后台重新生成另一个标签."
 
 #: webservices/SagendaAPI.php:85
@@ -238,14 +235,14 @@ msgstr ""
 #~ msgstr "你应该在你的PHP/Apache配置中启用curl服务."
 
 #~ msgid ""
-#~ "It looks like Sagenda’s WebServices failed to connect to Internet and is "
-#~ "blocked by the server’s firewall. Please contact your hosting provider "
-#~ "support service and ask them to unblock Sagenda’s WebServices. You can "
-#~ "give them our WP link as reference:"
+#~ "It looks like Sagenda’s WebServices failed to connect to Internet and is blocked "
+#~ "by the server’s firewall. Please contact your hosting provider support service "
+#~ "and ask them to unblock Sagenda’s WebServices. You can give them our WP link as "
+#~ "reference:"
 #~ msgstr ""
-#~ "可能出现的情况是Sagenda的网络服务不能连接网络，被服务器上的防火墙屏蔽。请"
-#~ "联系你的主机服务供应商，获取支持，请求供应商解锁Sagenda的网络服务。你可以"
-#~ "提供自己的WP连接作为供应商的参考。"
+#~ "可能出现的情况是Sagenda的网络服务不能连接网络，被服务器上的防火墙屏蔽。请联系你的"
+#~ "主机服务供应商，获取支持，请求供应商解锁Sagenda的网络服务。你可以提供自己的WP连接"
+#~ "作为供应商的参考。"
 
 #~ msgid ""
 #~ "To create a free account : <a href=\"https://sagenda.net/Accounts/Register"
@@ -267,11 +264,10 @@ msgstr ""
 #~ "1. Create a free account on <a href='https://sagenda.net/Accounts/"
 #~ "Register'>Sagenda.</a> (set up your bookable items and events)."
 #~ msgstr ""
-#~ "1. 在 <a href='https://sagenda.net/Accounts/Register'>Sagenda.</a>  创建一"
-#~ "个免费账户（设定你的可预订物品和事项）"
+#~ "1. 在 <a href='https://sagenda.net/Accounts/Register'>Sagenda.</a>  创建一个免费账"
+#~ "户（设定你的可预订物品和事项）"
 
-#~ msgid ""
-#~ "2. Copy your token (from the backend of sagenda.net Settings / account)"
+#~ msgid "2. Copy your token (from the backend of sagenda.net Settings / account)"
 #~ msgstr "2.复制你的token （从sagenda.net的后台设定/账户"
 
 #~ msgid "Start date"

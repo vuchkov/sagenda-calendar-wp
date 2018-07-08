@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sagenda-calendar-wp\n"
 "POT-Creation-Date: 2017-03-08 22:24+0100\n"
-"PO-Revision-Date: 2017-03-08 22:24+0100\n"
+"PO-Revision-Date: 2018-07-08 22:07+0200\n"
 "Last-Translator: David Imboden <info<this is at>iteration.info>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n"
+"%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
 "X-Generator: Poedit 1.8.12\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __\n"
@@ -57,33 +57,32 @@ msgstr ""
 #: controllers/AdminTokenController.php:43
 msgid ""
 "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> if you "
-"want to display only one bookable item on that page. Pay attention : if your "
-"bookable item is name \"My Item\", bookableitem=\"my item\" or bookableitem="
-"\"My Item\" will be correct, but \"bookableitem=\"myitem\" not!"
+"want to display only one bookable item on that page. Pay attention : if your bookable "
+"item is name \"My Item\", bookableitem=\"my item\" or bookableitem=\"My Item\" will "
+"be correct, but \"bookableitem=\"myitem\" not!"
 msgstr ""
 "<strong>[sagenda-calendar-wp bookableitem=\"my bookable item name\"]</strong> إذا كنت "
-"ترغب في عرض واحد فقط البند يمكن الحجز به على هذه الصفحة. الاهتمام: إذا البند "
-"الحجوزات الخاص بك هو اسم \"البند الخاص بي\"، bookableitem = \"مادتي\" أو "
-"bookableitem = \"البند الخاص بي\" سوف تكون صحيحة، ولكن \"bookableitem =\" "
-"myitem \"لا!"
+"ترغب في عرض واحد فقط البند يمكن الحجز به على هذه الصفحة. الاهتمام: إذا البند الحجوزات "
+"الخاص بك هو اسم \"البند الخاص بي\"، bookableitem = \"مادتي\" أو bookableitem = "
+"\"البند الخاص بي\" سوف تكون صحيحة، ولكن \"bookableitem =\" myitem \"لا!"
 
 #: controllers/AdminTokenController.php:44
 msgid ""
-"If you want to use a shortcode outside of the WordPress post or page editor, "
-"you can use this snippet to output it from the shortcode’s handler(s): "
-"<pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
+"If you want to use a shortcode outside of the WordPress post or page editor, you can "
+"use this snippet to output it from the shortcode’s handler(s): <pre>echo "
+"do_shortcode([sagenda-calendar-wp])</pre>"
 msgstr ""
-"إذا كنت ترغب في استخدام الرمز القصير خارج WordPress أو محرر الصفحة، يمكنك "
-"استخدام هذا الكود لاستخراجه من معالج الرموز القصيرة\n"
+"إذا كنت ترغب في استخدام الرمز القصير خارج WordPress أو محرر الصفحة، يمكنك استخدام هذا "
+"الكود لاستخراجه من معالج الرموز القصيرة\n"
 "): <pre>echo do_shortcode([sagenda-calendar-wp])</pre>"
 
 #: controllers/AdminTokenController.php:45
 msgid ""
-"NOTE: You first need to register on Sagenda and then you will get a "
-"Authentication token which you will use to validate this Sagenda Plugin."
+"NOTE: You first need to register on Sagenda and then you will get a Authentication "
+"token which you will use to validate this Sagenda Plugin."
 msgstr ""
-"ملاحظة: تحتاج أولا للتسجيل في Sagenda وبعد ذلك سوف تحصل على رمز مصادقة التي "
-"سوف تستخدم للتحقق من صحة  ربط Sagenda ."
+"ملاحظة: تحتاج أولا للتسجيل في Sagenda وبعد ذلك سوف تحصل على رمز مصادقة التي سوف "
+"تستخدم للتحقق من صحة  ربط Sagenda ."
 
 #: controllers/AdminTokenController.php:46
 msgid "Read more"
@@ -116,8 +115,8 @@ msgstr "تم اشتراكك بنجاح.حدث."
 
 #: controllers/SearchController.php:51
 msgid ""
-"You didn't configure Sagenda properly please enter your authentication code "
-"in Settings"
+"You didn't configure Sagenda properly please enter your authentication code in "
+"Settings"
 msgstr "لم يتم تثبيت ساجندا بشكل صحيح الرجاء إدخال رمز التوثيق في إعدادات"
 
 #: controllers/SearchController.php:78
@@ -140,8 +139,7 @@ msgstr "الرجاء اختيار البند المتاح للحجز"
 msgid "Location"
 msgstr "الموقع"
 
-#: controllers/SearchController.php:83
-#: controllers/SubscriptionController.php:47
+#: controllers/SearchController.php:83 controllers/SubscriptionController.php:47
 msgid "Description"
 msgstr "الوصف"
 
@@ -161,8 +159,7 @@ msgstr "انقر على حدث لحجزه:"
 msgid "book-it!"
 msgstr ""
 
-#: controllers/SearchController.php:90
-#: controllers/SubscriptionController.php:50
+#: controllers/SearchController.php:90 controllers/SubscriptionController.php:50
 msgid "Help"
 msgstr "مساعدة"
 
@@ -224,11 +221,10 @@ msgstr "تم الاتصال بنجاح"
 
 #: webservices/SagendaAPI.php:32
 msgid ""
-"Your token is wrong; please try again or generate another one in Sagenda’s "
-"backend."
+"Your token is wrong; please try again or generate another one in Sagenda’s backend."
 msgstr ""
-"خطاء فى العملة الافطرادية(توكن) الخاصة بك.من فضلك حاول مرة أخرى او قم بعمل "
-"رمز آخر فى خلفية ساجندا."
+"خطاء فى العملة الافطرادية(توكن) الخاصة بك.من فضلك حاول مرة أخرى او قم بعمل رمز آخر فى "
+"خلفية ساجندا."
 
 #: webservices/SagendaAPI.php:85
 msgid "An error has occurred. Booking wasn't saved."

@@ -41,7 +41,6 @@ class AdminTokenController
       'currentStatus'                         => __( 'Current Status', 'sagenda-calendar-wp' ),
       'clickHereToGetYourAuthenticationCode'  => __( 'Click here to get your Authentication code.', 'sagenda-calendar-wp' ),
       'shortCodeInfo'                         => __( '<strong>[sagenda-calendar-wp]</strong> add this shortcode either in a post or page where you want to display the Sagenda form.', 'sagenda-calendar-wp' ),
-      'shortCodeInfoAdvanced'                 => __( '<strong>[sagenda-calendar-wp bookableitem="my bookable item name"]</strong> if you want to display only one bookable item on that page. Pay attention : if your bookable item is name "My Item", bookableitem="my item" or bookableitem="My Item" will be correct, but "bookableitem="myitem" not!', 'sagenda-calendar-wp' ),
       'shortCodeInfoInPHP'                    => __( 'If you want to use a shortcode outside of the WordPress post or page editor, you can use this snippet to output it from the shortcode’s handler(s): <pre>echo do_shortcode([sagenda-calendar-wp])</pre>', 'sagenda-calendar-wp' ),
       'registeringInfo'                       => __( 'NOTE: You first need to register on Sagenda and then you will get a Authentication token which you will use to validate this Sagenda Plugin.', 'sagenda-calendar-wp' ),
       'readMore'                              => __( 'Read more', 'sagenda-calendar-wp' ),

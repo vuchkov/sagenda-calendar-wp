@@ -4,8 +4,8 @@ Donate link: http://www.sagenda.com/community/
 Tags: booking, appointment, scheduling, availability, reservation, rental, free, accommodation, booking form, calendar
 Requires at least: 3.0
 Requires PHP: 5.6
-Tested up to: 4.9.6
-Stable tag: 0.4.2
+Tested up to: 4.9.7
+Stable tag: 0.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,6 +83,12 @@ We will add your translations in the next release!
 
 == Upgrade Notice ==
 
+= 0.4.3 =
+* IMPROVED : translations.
+
+
+== Changelog ==
+
 = 0.4.2 =
 * IMPROVED : it is not possible to put on the same page : several Sagenda lists and one Sagenda calendar (not several due to Angular restrictions).
 * FIXED : a bug making conflict with the website "base href".
@@ -101,14 +107,12 @@ We will add your translations in the next release!
 * ADDED : You can now customize the button background color.
 * TRANSLATIONS : Added Catalan and 🇫🇮 Finish translations.
 
-
 = 0.2.0 =
 * FIXED : A problem when displaying "all day" events in the week view.
 * ADDED : You can now customise also some text color from your sagenda's account.
 * TRANSLATIONS : Added Dutch & Italian translations.
 * TESTED : WordPress 4.9.5.
 
-== Changelog ==
 = 0.1.0 =
 🚀 Shoot for the moon ! 🌝 and help us with translations : [https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348](https://osp7icw.oneskyapp.com/admin/project/dashboard/project/142348)
 * ADDED : You can now customise the button text color from your sagenda's account.

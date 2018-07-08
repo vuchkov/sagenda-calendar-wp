@@ -1,4 +1,4 @@
-Translations, Last Update : 09.03.2017
+Translations, Last Update : 08.07.2018
 
 Sadly WordPress don’t manage fallback correctly : it’s not possible to create a “fr” file for “fr_FR” and “fr_BE”. For now we have to duplicate all file for each language_culture.
 
@@ -18,3 +18,12 @@ es_ARes_CLes_COes_GTes_MXes_PEes_VE
 -> nl_NL, should be copied to :
 nl_BEnl_NL_formal
 
+
+fa (Persian) only don't exist copy to ->
+fa_ir
+fa_AF
+
+
+
+Local short code should be checked there :
+https://make.wordpress.org/polyglots/teams/
