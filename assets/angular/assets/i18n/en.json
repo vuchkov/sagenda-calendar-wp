@@ -15,7 +15,13 @@
 		"ALL_DAY": "All Day",
 		"DATE": "Date"
 	},
+	"MULTIPLE": {
+		"SELECTED_EVENTS": "Selected event(s) :",
+		"CLEAR_SELECTION": "Clear selection"
+	},
 	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
+		"ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
 		"NO_EVENT": "No event found for the given period!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Please enter a valid email address!",
 		"PLEASE_SELECT": "Please select...",
@@ -44,6 +50,7 @@
 		"NOTE": "Note:",
 		"PHONE": "Phone:",
 		"TITLE": "Title:",
-		"TO": "To:"
+		"TO": "To:",
+		"PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking"
 	}
 }

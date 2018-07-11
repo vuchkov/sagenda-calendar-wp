@@ -16,6 +16,8 @@
 		"DATE": "Date"
 	},
 	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Désactiver la sélection multiple",
+		"ENABLE_MULTIPLE_SELECTION": "Activer la sélection multiple",
 		"NO_EVENT": "Il ne reste pas d'évènement pour la période donnée.",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Merci d'entrer une adresse email valide!",
 		"PLEASE_SELECT": "Merci de sélectionner...",
@@ -44,6 +46,7 @@
 		"NOTE": "Note:",
 		"PHONE": "Téléphone:",
 		"TITLE": "Titre:",
-		"TO": "A:"
+		"TO": "A:",
+		"PAYMENT_MESSAGE": "Vous allez être redirigé vers PayPal pour compléter votre payment et votre réservation."
 	}
 }

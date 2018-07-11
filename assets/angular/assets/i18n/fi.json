@@ -8,7 +8,7 @@
 		"WEEK": "Viikko"
 	},
 	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda tiliisi!",
+		"NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda tiliisi!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Koko päivä",
