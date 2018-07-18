@@ -7,27 +7,11 @@
 		"TODAY": "Dnes",
 		"WEEK": "Týden"
 	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "",
-		"NO_TOKEN": ""
-	},
-	"EVENT": {
-		"ALL_DAY": "",
-		"DATE": ""
-	},
 	"MESSAGE": {
-		"DISABLE_MULTIPLE_SELECTION": "",
-		"ENABLE_MULTIPLE_SELECTION": "",
-		"NO_EVENT": "",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prosím zadejte platnou emailovou adresu!",
-		"PLEASE_SELECT": "",
 		"VALUE_IS_REQUIRED": "Hodnota je vyžadována!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Úspěšně jste se přihlásili k odběru!",
 		"YOU_WILL_GET_NOTIFICATION": "Brzy obdržíte potvrzení mailem a volitelně SMS"
-	},
-	"STANDARD": {
-		"LINK": "",
-		"OK": ""
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Množství:",

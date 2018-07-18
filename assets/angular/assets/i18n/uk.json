@@ -7,26 +7,13 @@
 		"TODAY": "Сьогодні",
 		"WEEK": "Тиждень"
 	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "",
-		"NO_TOKEN": ""
-	},
-	"EVENT": {
-		"ALL_DAY": "",
-		"DATE": ""
-	},
 	"MESSAGE": {
-		"DISABLE_MULTIPLE_SELECTION": "",
-		"ENABLE_MULTIPLE_SELECTION": "",
-		"NO_EVENT": "",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Будь ласка, введіть дійсну адресу електронної пошти!",
-		"PLEASE_SELECT": "",
 		"VALUE_IS_REQUIRED": "Поле обов'язкове!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Ви успішно підписалися!",
 		"YOU_WILL_GET_NOTIFICATION": "Незабаром ви отримаєте сповіщення електронною поштою та додатково через SMS."
 	},
 	"STANDARD": {
-		"LINK": "",
 		"OK": "OK"
 	},
 	"SUBSCRIPTION": {

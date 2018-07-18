@@ -15,6 +15,10 @@
 		"ALL_DAY": "Toute la journée",
 		"DATE": "Date"
 	},
+	"MULTIPLE": {
+		"SELECTED_EVENTS": "Evènement(s) sélectioné(s) :",
+		"CLEAR_SELECTION": "Effacer la sélection"
+	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Désactiver la sélection multiple",
 		"ENABLE_MULTIPLE_SELECTION": "Activer la sélection multiple",
