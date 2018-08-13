@@ -4,8 +4,8 @@ Donate link: http://www.sagenda.com/community/
 Tags: booking, appointment, scheduling, availability, reservation, rental, free, accommodation, booking form, calendar
 Requires at least: 3.0
 Requires PHP: 5.6
-Tested up to: 4.9.7
-Stable tag: 0.5.0
+Tested up to: 4.9.8
+Stable tag: 0.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -82,13 +82,16 @@ We will add your translations in the next release!
 
 
 == Upgrade Notice ==
+= 0.5.1 =
+* FIXED : don't let user book paid events using different currencies, what isn't allowed by PayPal.
+
+
+== Changelog ==
 
 = 0.5.0 =
 * ADDED : Multi booking option.
 * IMPROVED : translations.
 
-
-== Changelog ==
 
 = 0.4.2 =
 * IMPROVED : it is not possible to put on the same page : several Sagenda lists and one Sagenda calendar (not several due to Angular restrictions).

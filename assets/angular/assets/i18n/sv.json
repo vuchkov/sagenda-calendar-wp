@@ -20,7 +20,7 @@
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vänligen skriv in en korrekt e-postadress",
 		"PLEASE_SELECT": "Var vänlig välj...",
 		"VALUE_IS_REQUIRED": "Obligatoriskt fält",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Din anmälan är registrerad!",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Din anmälan är registrerad!",
 		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS (tillval)."
 	},
 	"STANDARD": {

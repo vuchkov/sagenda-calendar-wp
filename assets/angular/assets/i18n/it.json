@@ -8,7 +8,7 @@
 		"WEEK": "Settimana"
 	},
 	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!",
+		"NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!"
 	},
 	"EVENT": {
 		"ALL_DAY": "Tutto il giorno",
@@ -18,7 +18,7 @@
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Si prega di inserire un indirizzo email valido!",
 		"PLEASE_SELECT": "Seleziona ...",
 		"VALUE_IS_REQUIRED": "È necessario il valore!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "La tua iscrizione è avvenuta con successo!",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "La tua iscrizione è avvenuta con successo!",
 		"YOU_WILL_GET_NOTIFICATION": "Riceverai al più presto una notifica via mail e facoltativamente anche via SMS."
 	},
 	"STANDARD": {
