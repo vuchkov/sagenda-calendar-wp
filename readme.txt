@@ -63,6 +63,10 @@ The language of the calendar will match "Site Language" parameter.
 The Date and time format will match "Date Format" / "Time Format" parameters.
 The calendar will start on "Week Starts On" parameter.
 
+**Known issues**
+Problem with our plugin? are you using a caching system? Try to remove "w3 Total Cache" and use "Super Cache" or "WP Rocket".
+
+
 
 = LANGUAGE / TRANSLATIONS =
 
