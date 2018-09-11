@@ -5,7 +5,7 @@ Tags: booking, appointment, scheduling, availability, reservation, rental, free,
 Requires at least: 3.0
 Requires PHP: 5.6
 Tested up to: 4.9.8
-Stable tag: 0.6.0
+Stable tag: 0.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -86,12 +86,16 @@ We will add your translations in the next release!
 
 
 == Upgrade Notice ==
+= 0.6.1 =
+* FIXED : Bug of date time format with Safari on macOSX and iOS.
+
+
+== Changelog ==
+
 = 0.6.0 =
 * ADDED : Range selection for Multi booking option.
 * FIXED : Bug when loading the default bookable item.
 
-
-== Changelog ==
 
 = 0.5.1 =
 * FIXED : don't let user book paid events using different currencies, what isn't allowed by PayPal.
