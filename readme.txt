@@ -5,7 +5,7 @@ Tags: booking, appointment, scheduling, availability, reservation, rental, free,
 Requires at least: 3.0
 Requires PHP: 5.6
 Tested up to: 5.0
-Stable tag: 0.7.0
+Stable tag: 0.7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -86,12 +86,15 @@ We will add your translations in the next release!
 
 
 == Upgrade Notice ==
-= 0.7.0 =
-* ADDED : Add new feature : multi person booking. You can now enter the name of several persons when booking a reservation.
-* FIXED : Enable multi-booking by default.
+= 0.7.1 =
+* IMPROVED : Messaging.
 
 
 == Changelog ==
+
+= 0.7.0 =
+* ADDED : Add new feature : multi person booking. You can now enter the name of several persons when booking a reservation.
+* FIXED : Enable multi-booking by default.
 
 = 0.6.1 =
 * FIXED : Bug of date time format with Safari on macOSX and iOS.

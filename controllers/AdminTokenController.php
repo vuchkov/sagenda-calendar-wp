@@ -26,7 +26,7 @@ class AdminTokenController
     $result = $sagendaAPI->validateAccount($tokenValue);
     $color = "red";
     $connectedStatus = __( 'NOT CONNECTED', 'sagenda-calendar-wp' );
-
+ 
     if($result['didSucceed'] && $tokenValue != null )
     {
       $color = "green";
