@@ -88,6 +88,8 @@ We will add your translations in the next release!
 == Upgrade Notice ==
 = 0.7.1 =
 * IMPROVED : Messaging.
+* IMPROVED : Display a message if it's not allowed to add more member to the booking.
+* TRANSLATIONS : Added Latvian translations, improved : arabic, romanian and more...
 
 
 == Changelog ==
